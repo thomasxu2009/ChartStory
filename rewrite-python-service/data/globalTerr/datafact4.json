@@ -1,0 +1,103 @@
+[
+  {
+    "id": "",
+    "type": "RelativeValueFact",
+    "tier": "1",
+    "interestingness": "3.2941176470588243",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "",
+    "secondaryTargetObject": "",
+    "diffFactor": "1000",
+    "sourceCategory": "Kunar",
+    "targetCategory": "Baghdad",
+    "attributes": [
+      "provstate",
+      "Attack Count"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "content": "The Attack Count for Baghdad is 1000 times of that for Kunar",
+    "typeInterestingness": "0.9607843137254902",
+    "attributeInterestingness": "0.33333333333333387"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.359477124183007",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Chechnya",
+    "secondaryTargetObject": "",
+    "content": "Chechnya (provstate) has the lowest Attack Count (1)",
+    "attributes": [
+      "provstate",
+      "Attack Count"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.33333333333333387"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.359477124183007",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Baghdad",
+    "secondaryTargetObject": "",
+    "content": "Baghdad (provstate) has the highest Attack Count (1001)",
+    "attributes": [
+      "provstate",
+      "Attack Count"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.33333333333333387"
+  },
+  {
+    "id": "",
+    "type": "DerivedValueFact",
+    "tier": "1",
+    "interestingness": "2.3464052287581705",
+    "taskCategory": "DerivedValue",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "4420",
+    "content": "Total Attack Count across all provstates is 4420",
+    "attributes": [
+      "provstate",
+      "Attack Count"
+    ],
+    "typeInterestingness": "0.013071895424836602",
+    "attributeInterestingness": "0.33333333333333387"
+  }
+]

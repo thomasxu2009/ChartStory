@@ -1,0 +1,4 @@
+Itmes with the locale of large city and the average faculty salary of 8346 has the highest average family income of 134101.78, correspondingly 9565 has the lowest of that as 120106.07. 
+Itmes with the locale of distant town and the average faculty salary of 12144 has the second highest average family income of 132813.41, similarly mid-size city and the average faculty salary of 11662 has the second lowest of that as 120161.97.
+
+Below are Wikipedia entries about Family, Salary, Average: In the context of human society, a family is a group of people related either by consanguinity or affinity . A salary is a form of payment from an employer to an employee, which may be specified in an employme...

@@ -1,0 +1,22 @@
+/* Split.js */
+.gutter {
+  background-color: #333;
+}
+
+/* Layout Panel */
+.aspect-ratio-box {
+  background: #333;
+}
+
+.single-node-container {
+  border: solid #aaa;
+}
+
+.vis-panel-container {
+  background: #333;
+}
+
+.text-panel-container {
+	color: #fff;
+  background: #333;
+}

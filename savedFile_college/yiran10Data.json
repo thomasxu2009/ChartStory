@@ -1,0 +1,2212 @@
+[
+    {
+        "AverageCost": "26717",
+        "AverageFamilyIncome": "74131.14",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "23788",
+        "AverageFamilyIncome": "88745.91",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19202",
+        "AverageFamilyIncome": "47062.65",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15058",
+        "AverageFamilyIncome": "52611.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "24744",
+        "AverageFamilyIncome": "35064.97",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "42925",
+        "AverageFamilyIncome": "65433.53",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23905",
+        "AverageFamilyIncome": "68621.67",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22771",
+        "AverageFamilyIncome": "61101.19",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "40206",
+        "AverageFamilyIncome": "48368.15",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34444",
+        "AverageFamilyIncome": "55267.87",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19917",
+        "AverageFamilyIncome": "68151.74",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15414",
+        "AverageFamilyIncome": "30961.41",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "18809",
+        "AverageFamilyIncome": "38618.99",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "17899",
+        "AverageFamilyIncome": "53694.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20386",
+        "AverageFamilyIncome": "53036.83",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "50172",
+        "AverageFamilyIncome": "100605.48",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "14335",
+        "AverageFamilyIncome": "34268.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39026",
+        "AverageFamilyIncome": "75462.81",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18061",
+        "AverageFamilyIncome": "38023.07",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22926",
+        "AverageFamilyIncome": "58551.47",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "12957",
+        "AverageFamilyIncome": "33355.93",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16377",
+        "AverageFamilyIncome": "40758.26",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18085",
+        "AverageFamilyIncome": "45976.99",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "14747",
+        "AverageFamilyIncome": "27649.23",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20899",
+        "AverageFamilyIncome": "39205.28",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19380",
+        "AverageFamilyIncome": "43423.41",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "31474",
+        "AverageFamilyIncome": "54271.79",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "29787",
+        "AverageFamilyIncome": "57708.66",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "29751",
+        "AverageFamilyIncome": "58621.21",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33208",
+        "AverageFamilyIncome": "73778.36",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "56165",
+        "AverageFamilyIncome": "73265.64",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33973",
+        "AverageFamilyIncome": "56054.12",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46994",
+        "AverageFamilyIncome": "63127.65",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "39842",
+        "AverageFamilyIncome": "65695.31",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55432",
+        "AverageFamilyIncome": "101494.67",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "54668",
+        "AverageFamilyIncome": "58485.19",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "47905",
+        "AverageFamilyIncome": "54413.5",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "60655",
+        "AverageFamilyIncome": "86871.68",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52397",
+        "AverageFamilyIncome": "61484.47",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52406",
+        "AverageFamilyIncome": "62103.51",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43060",
+        "AverageFamilyIncome": "95289.35",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55268",
+        "AverageFamilyIncome": "83774.07",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20252",
+        "AverageFamilyIncome": "57515.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "56346",
+        "AverageFamilyIncome": "97719.44",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55809",
+        "AverageFamilyIncome": "59373.19",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22267",
+        "AverageFamilyIncome": "46467.57",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55812",
+        "AverageFamilyIncome": "90594.28",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21160",
+        "AverageFamilyIncome": "43366.3",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33889",
+        "AverageFamilyIncome": "58109",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "50373",
+        "AverageFamilyIncome": "37262.45",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "59787",
+        "AverageFamilyIncome": "74599.85",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42465",
+        "AverageFamilyIncome": "49061.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18822",
+        "AverageFamilyIncome": "51853.53",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16707",
+        "AverageFamilyIncome": "61852.58",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27854",
+        "AverageFamilyIncome": "96924.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "54200",
+        "AverageFamilyIncome": "100140.33",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "53614",
+        "AverageFamilyIncome": "86015.75",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18077",
+        "AverageFamilyIncome": "53915.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "14034",
+        "AverageFamilyIncome": "46429.22",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19105",
+        "AverageFamilyIncome": "77019.2",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "43058",
+        "AverageFamilyIncome": "68787.79",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42885",
+        "AverageFamilyIncome": "64822.93",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "61167",
+        "AverageFamilyIncome": "106492.97",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20506",
+        "AverageFamilyIncome": "51471.74",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "35199",
+        "AverageFamilyIncome": "75952.19",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "55159",
+        "AverageFamilyIncome": "105560.77",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "54023",
+        "AverageFamilyIncome": "120106.07",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "29852",
+        "AverageFamilyIncome": "42756.46",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "58925",
+        "AverageFamilyIncome": "105732.4",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "59900",
+        "AverageFamilyIncome": "87179.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40129",
+        "AverageFamilyIncome": "63421.37",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27017",
+        "AverageFamilyIncome": "40392.46",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48735",
+        "AverageFamilyIncome": "87543.56",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22929",
+        "AverageFamilyIncome": "29430.09",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "45648",
+        "AverageFamilyIncome": "71628",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19131",
+        "AverageFamilyIncome": "46536.36",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "52490",
+        "AverageFamilyIncome": "87401.79",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "38413",
+        "AverageFamilyIncome": "68962.06",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "42459",
+        "AverageFamilyIncome": "68702.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19415",
+        "AverageFamilyIncome": "55334.71",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19299",
+        "AverageFamilyIncome": "52366.99",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30333",
+        "AverageFamilyIncome": "65179.01",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37714",
+        "AverageFamilyIncome": "81805.23",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16752",
+        "AverageFamilyIncome": "49072.01",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18158",
+        "AverageFamilyIncome": "47671.85",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19025",
+        "AverageFamilyIncome": "40236.45",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34201",
+        "AverageFamilyIncome": "55844.37",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "34107",
+        "AverageFamilyIncome": "52547.48",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15501",
+        "AverageFamilyIncome": "29494.09",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21980",
+        "AverageFamilyIncome": "94533.48",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23124",
+        "AverageFamilyIncome": "53412.71",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46382",
+        "AverageFamilyIncome": "65979.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "45451",
+        "AverageFamilyIncome": "68960.56",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30642",
+        "AverageFamilyIncome": "61885.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "41635",
+        "AverageFamilyIncome": "71841.55",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16546",
+        "AverageFamilyIncome": "56655.45",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20958",
+        "AverageFamilyIncome": "63517.53",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "30878",
+        "AverageFamilyIncome": "51834.51",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "30801",
+        "AverageFamilyIncome": "53188.8",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18491",
+        "AverageFamilyIncome": "54876.85",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "29762",
+        "AverageFamilyIncome": "58493.03",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16184",
+        "AverageFamilyIncome": "39595.63",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "55551",
+        "AverageFamilyIncome": "65019.84",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18472",
+        "AverageFamilyIncome": "25960.58",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "62425",
+        "AverageFamilyIncome": "75760.31",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46375",
+        "AverageFamilyIncome": "74671.61",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33966",
+        "AverageFamilyIncome": "47801.79",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25248",
+        "AverageFamilyIncome": "55560.29",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "28564",
+        "AverageFamilyIncome": "93333.2",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48522",
+        "AverageFamilyIncome": "113545.76",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48940",
+        "AverageFamilyIncome": "69130.16",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "47727",
+        "AverageFamilyIncome": "85748.31",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "39576",
+        "AverageFamilyIncome": "76988.11",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31065",
+        "AverageFamilyIncome": "73119.69",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "60729",
+        "AverageFamilyIncome": "93582.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22273",
+        "AverageFamilyIncome": "35049.57",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43650",
+        "AverageFamilyIncome": "56408.85",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35284",
+        "AverageFamilyIncome": "65314.47",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "24234",
+        "AverageFamilyIncome": "59660.34",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37937",
+        "AverageFamilyIncome": "78026.29",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21101",
+        "AverageFamilyIncome": "78230.63",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33617",
+        "AverageFamilyIncome": "62249.48",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "47010",
+        "AverageFamilyIncome": "109689.19",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "37707",
+        "AverageFamilyIncome": "76827.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "18837",
+        "AverageFamilyIncome": "55513.79",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20846",
+        "AverageFamilyIncome": "56695.09",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36158",
+        "AverageFamilyIncome": "68430.95",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35911",
+        "AverageFamilyIncome": "54055.17",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19549",
+        "AverageFamilyIncome": "60917.09",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15874",
+        "AverageFamilyIncome": "53539.93",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "23043",
+        "AverageFamilyIncome": "92768.66",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "18092",
+        "AverageFamilyIncome": "44723.98",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39369",
+        "AverageFamilyIncome": "61627.36",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55413",
+        "AverageFamilyIncome": "105688.73",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31516",
+        "AverageFamilyIncome": "69162.62",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "38062",
+        "AverageFamilyIncome": "67508.74",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34206",
+        "AverageFamilyIncome": "64765.21",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "18820",
+        "AverageFamilyIncome": "81434.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21832",
+        "AverageFamilyIncome": "83051.2",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37622",
+        "AverageFamilyIncome": "89740.93",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "36280",
+        "AverageFamilyIncome": "68803.77",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19233",
+        "AverageFamilyIncome": "74741.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33388",
+        "AverageFamilyIncome": "56227.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21971",
+        "AverageFamilyIncome": "85281.02",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33524",
+        "AverageFamilyIncome": "57296.43",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25439",
+        "AverageFamilyIncome": "65890.15",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "14764",
+        "AverageFamilyIncome": "52548.32",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "47609",
+        "AverageFamilyIncome": "79655.05",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27219",
+        "AverageFamilyIncome": "54869.78",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "29725",
+        "AverageFamilyIncome": "58869.38",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22420",
+        "AverageFamilyIncome": "71446.07",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21922",
+        "AverageFamilyIncome": "58745.22",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "31021",
+        "AverageFamilyIncome": "45742.79",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41374",
+        "AverageFamilyIncome": "96629.61",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16538",
+        "AverageFamilyIncome": "53605.57",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25343",
+        "AverageFamilyIncome": "44677.8",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46676",
+        "AverageFamilyIncome": "88998.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "14823",
+        "AverageFamilyIncome": "47180.78",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16212",
+        "AverageFamilyIncome": "40387.97",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16071",
+        "AverageFamilyIncome": "45301.91",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "14925",
+        "AverageFamilyIncome": "43678.01",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15729",
+        "AverageFamilyIncome": "46591.28",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "10889",
+        "AverageFamilyIncome": "19767.87",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "58904",
+        "AverageFamilyIncome": "78916.25",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27550",
+        "AverageFamilyIncome": "57479.8",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25019",
+        "AverageFamilyIncome": "54963.01",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22290",
+        "AverageFamilyIncome": "60012.65",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "45230",
+        "AverageFamilyIncome": "80494.07",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "58980",
+        "AverageFamilyIncome": "83968.47",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "56736",
+        "AverageFamilyIncome": "134101.78",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20108",
+        "AverageFamilyIncome": "51957.78",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41871",
+        "AverageFamilyIncome": "69516.08",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21596",
+        "AverageFamilyIncome": "82801.58",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "54806",
+        "AverageFamilyIncome": "105823.11",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "58639",
+        "AverageFamilyIncome": "103787.15",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "59036",
+        "AverageFamilyIncome": "106244",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "58850",
+        "AverageFamilyIncome": "113024.02",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "51158",
+        "AverageFamilyIncome": "108523.09",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "49487",
+        "AverageFamilyIncome": "91299.92",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21402",
+        "AverageFamilyIncome": "78825.5",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "43854",
+        "AverageFamilyIncome": "86819.79",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "43966",
+        "AverageFamilyIncome": "75646.39",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25384",
+        "AverageFamilyIncome": "74521.53",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41565",
+        "AverageFamilyIncome": "74459.36",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "55914",
+        "AverageFamilyIncome": "99407.61",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "51093",
+        "AverageFamilyIncome": "81764.35",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "45280",
+        "AverageFamilyIncome": "79950.51",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43850",
+        "AverageFamilyIncome": "89672.88",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "45591",
+        "AverageFamilyIncome": "77936.29",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46095",
+        "AverageFamilyIncome": "79319.28",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "48027",
+        "AverageFamilyIncome": "58134.97",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "38593",
+        "AverageFamilyIncome": "107260.41",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48547",
+        "AverageFamilyIncome": "108955.67",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39890",
+        "AverageFamilyIncome": "74787.91",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22629",
+        "AverageFamilyIncome": "58679.09",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25733",
+        "AverageFamilyIncome": "31358.87",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23740",
+        "AverageFamilyIncome": "87289.4",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "15831",
+        "AverageFamilyIncome": "53031.88",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "32803",
+        "AverageFamilyIncome": "63920.59",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20199",
+        "AverageFamilyIncome": "44037.59",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22483",
+        "AverageFamilyIncome": "81449.44",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "42531",
+        "AverageFamilyIncome": "74730.25",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "32531",
+        "AverageFamilyIncome": "76327.08",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "40267",
+        "AverageFamilyIncome": "66177.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43433",
+        "AverageFamilyIncome": "71451.3",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55393",
+        "AverageFamilyIncome": "93155.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17578",
+        "AverageFamilyIncome": "76286.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "24278",
+        "AverageFamilyIncome": "80969.01",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41935",
+        "AverageFamilyIncome": "85830.17",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22796",
+        "AverageFamilyIncome": "87902.82",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "28800",
+        "AverageFamilyIncome": "67616.56",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17892",
+        "AverageFamilyIncome": "72449.18",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "40685",
+        "AverageFamilyIncome": "71064.65",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48421",
+        "AverageFamilyIncome": "110915.07",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43356",
+        "AverageFamilyIncome": "66972.65",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18781",
+        "AverageFamilyIncome": "44439.03",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "23962",
+        "AverageFamilyIncome": "36120.41",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34898",
+        "AverageFamilyIncome": "67407.58",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18781",
+        "AverageFamilyIncome": "43973.85",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "45824",
+        "AverageFamilyIncome": "80904.38",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30193",
+        "AverageFamilyIncome": "74703.81",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "14143",
+        "AverageFamilyIncome": "43502.53",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "23437",
+        "AverageFamilyIncome": "57316.66",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40582",
+        "AverageFamilyIncome": "85877.41",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52413",
+        "AverageFamilyIncome": "103272.02",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17093",
+        "AverageFamilyIncome": "57993.21",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "17440",
+        "AverageFamilyIncome": "53798.72",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "22322",
+        "AverageFamilyIncome": "66396.06",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "26429",
+        "AverageFamilyIncome": "54096.53",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46248",
+        "AverageFamilyIncome": "101259.23",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27873",
+        "AverageFamilyIncome": "62069.08",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23987",
+        "AverageFamilyIncome": "60558.1",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16860",
+        "AverageFamilyIncome": "67569.73",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36429",
+        "AverageFamilyIncome": "79498.08",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21024",
+        "AverageFamilyIncome": "81338.55",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36592",
+        "AverageFamilyIncome": "52522.1",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30383",
+        "AverageFamilyIncome": "60873.43",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27321",
+        "AverageFamilyIncome": "81234.2",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39525",
+        "AverageFamilyIncome": "82144.28",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "26700",
+        "AverageFamilyIncome": "60206.72",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40921",
+        "AverageFamilyIncome": "57869.74",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16822",
+        "AverageFamilyIncome": "39057.95",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41417",
+        "AverageFamilyIncome": "55971.28",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "40718",
+        "AverageFamilyIncome": "87171.28",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "59581",
+        "AverageFamilyIncome": "105139.12",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42796",
+        "AverageFamilyIncome": "82047.93",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "61540",
+        "AverageFamilyIncome": "59265.49",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "56735",
+        "AverageFamilyIncome": "56471.71",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "59572",
+        "AverageFamilyIncome": "97334.41",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "32741",
+        "AverageFamilyIncome": "51654.16",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50608",
+        "AverageFamilyIncome": "83550.66",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "56604",
+        "AverageFamilyIncome": "96092.62",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41111",
+        "AverageFamilyIncome": "86491.86",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42712",
+        "AverageFamilyIncome": "19232.08",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "44895",
+        "AverageFamilyIncome": "104919.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17344",
+        "AverageFamilyIncome": "45226.14",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "45323",
+        "AverageFamilyIncome": "95424.1",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "37738",
+        "AverageFamilyIncome": "70753.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "57203",
+        "AverageFamilyIncome": "73764.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "60059",
+        "AverageFamilyIncome": "99964.68",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50625",
+        "AverageFamilyIncome": "67532.89",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50199",
+        "AverageFamilyIncome": "52746.28",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "54582",
+        "AverageFamilyIncome": "75159.24",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "59470",
+        "AverageFamilyIncome": "102722.37",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25290",
+        "AverageFamilyIncome": "75509.05",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50233",
+        "AverageFamilyIncome": "65214.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "21249",
+        "AverageFamilyIncome": "74245.98",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21493",
+        "AverageFamilyIncome": "83846.41",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "58023",
+        "AverageFamilyIncome": "113355.39",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "44394",
+        "AverageFamilyIncome": "64313.98",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48993",
+        "AverageFamilyIncome": "75007.96",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "49453",
+        "AverageFamilyIncome": "101715.27",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "53825",
+        "AverageFamilyIncome": "109592.47",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19688",
+        "AverageFamilyIncome": "58727.29",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19851",
+        "AverageFamilyIncome": "65286.33",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37497",
+        "AverageFamilyIncome": "70312.53",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "44255",
+        "AverageFamilyIncome": "57515.57",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30314",
+        "AverageFamilyIncome": "45964.04",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "39425",
+        "AverageFamilyIncome": "74504.47",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39296",
+        "AverageFamilyIncome": "75153.97",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "15313",
+        "AverageFamilyIncome": "50618.06",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17468",
+        "AverageFamilyIncome": "60962.62",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "23069",
+        "AverageFamilyIncome": "80815.19",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "17767",
+        "AverageFamilyIncome": "64318",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17362",
+        "AverageFamilyIncome": "62041.39",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20511",
+        "AverageFamilyIncome": "76057.18",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36686",
+        "AverageFamilyIncome": "51983.81",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37712",
+        "AverageFamilyIncome": "72972.81",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40930",
+        "AverageFamilyIncome": "61685.15",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "31095",
+        "AverageFamilyIncome": "39667.54",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20538",
+        "AverageFamilyIncome": "78359.31",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "32485",
+        "AverageFamilyIncome": "86345.66",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "24311",
+        "AverageFamilyIncome": "48235.8",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "55783",
+        "AverageFamilyIncome": "72928.28",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25338",
+        "AverageFamilyIncome": "53912.61",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25900",
+        "AverageFamilyIncome": "58787.19",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25799",
+        "AverageFamilyIncome": "64379.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50146",
+        "AverageFamilyIncome": "81372.39",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22041",
+        "AverageFamilyIncome": "43936.8",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "39478",
+        "AverageFamilyIncome": "75000.48",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25222",
+        "AverageFamilyIncome": "60446.33",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35213",
+        "AverageFamilyIncome": "67635.7",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25491",
+        "AverageFamilyIncome": "71213.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40370",
+        "AverageFamilyIncome": "62680.61",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "24524",
+        "AverageFamilyIncome": "75442.68",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "32761",
+        "AverageFamilyIncome": "94321.98",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21263",
+        "AverageFamilyIncome": "65254.02",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50728",
+        "AverageFamilyIncome": "102244.08",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "45080",
+        "AverageFamilyIncome": "100738.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "29359",
+        "AverageFamilyIncome": "78247.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41431",
+        "AverageFamilyIncome": "66323.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35070",
+        "AverageFamilyIncome": "66075.88",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46560",
+        "AverageFamilyIncome": "79960.34",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35963",
+        "AverageFamilyIncome": "64443.3",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "53455",
+        "AverageFamilyIncome": "83576.98",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33878",
+        "AverageFamilyIncome": "56167.68",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22974",
+        "AverageFamilyIncome": "66705.26",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "57701",
+        "AverageFamilyIncome": "90869.88",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46170",
+        "AverageFamilyIncome": "75540.42",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39999",
+        "AverageFamilyIncome": "64848.34",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21732",
+        "AverageFamilyIncome": "77200.99",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "35640",
+        "AverageFamilyIncome": "57010.98",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "59710",
+        "AverageFamilyIncome": "103727.25",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42663",
+        "AverageFamilyIncome": "60225.69",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "58149",
+        "AverageFamilyIncome": "119315.61",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "53831",
+        "AverageFamilyIncome": "84469.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "42280",
+        "AverageFamilyIncome": "90458.69",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20282",
+        "AverageFamilyIncome": "81363.98",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "55770",
+        "AverageFamilyIncome": "131825.39",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31949",
+        "AverageFamilyIncome": "66036.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23767",
+        "AverageFamilyIncome": "56312.05",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "47134",
+        "AverageFamilyIncome": "83518.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "55441",
+        "AverageFamilyIncome": "125770.36",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "44256",
+        "AverageFamilyIncome": "84603.86",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "47675",
+        "AverageFamilyIncome": "79840.06",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "27591",
+        "AverageFamilyIncome": "81964.64",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31625",
+        "AverageFamilyIncome": "81964.64",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "59600",
+        "AverageFamilyIncome": "87200.75",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46451",
+        "AverageFamilyIncome": "91766.66",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52401",
+        "AverageFamilyIncome": "93270.02",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "49327",
+        "AverageFamilyIncome": "90253.37",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30410",
+        "AverageFamilyIncome": "79347.41",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36726",
+        "AverageFamilyIncome": "59212.25",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52779",
+        "AverageFamilyIncome": "123938.82",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "51962",
+        "AverageFamilyIncome": "106711.89",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "27247",
+        "AverageFamilyIncome": "70311.21",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "39818",
+        "AverageFamilyIncome": "56466.35",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "35340",
+        "AverageFamilyIncome": "68927.17",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33245",
+        "AverageFamilyIncome": "57372.21",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39748",
+        "AverageFamilyIncome": "65434.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16781",
+        "AverageFamilyIncome": "42819.92",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21601",
+        "AverageFamilyIncome": "79662.53",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "24595",
+        "AverageFamilyIncome": "67902.81",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "47856",
+        "AverageFamilyIncome": "104265.69",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "20234",
+        "AverageFamilyIncome": "66137.5",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31324",
+        "AverageFamilyIncome": "52905.11",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19745",
+        "AverageFamilyIncome": "54231.6",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "41450",
+        "AverageFamilyIncome": "98697.97",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "34413",
+        "AverageFamilyIncome": "59020.1",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "10764",
+        "AverageFamilyIncome": "32052.51",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37181",
+        "AverageFamilyIncome": "86133.94",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22485",
+        "AverageFamilyIncome": "49111.05",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "38893",
+        "AverageFamilyIncome": "51683.87",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36533",
+        "AverageFamilyIncome": "59579.65",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "17406",
+        "AverageFamilyIncome": "31750.65",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16427",
+        "AverageFamilyIncome": "24665.5",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "23554",
+        "AverageFamilyIncome": "64378.91",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37855",
+        "AverageFamilyIncome": "59445.66",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20899",
+        "AverageFamilyIncome": "45004.14",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35632",
+        "AverageFamilyIncome": "61880.14",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "50659",
+        "AverageFamilyIncome": "126222.05",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30820",
+        "AverageFamilyIncome": "65129.33",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "40415",
+        "AverageFamilyIncome": "65098.48",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "59890",
+        "AverageFamilyIncome": "99004.36",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19511",
+        "AverageFamilyIncome": "53847.09",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "45800",
+        "AverageFamilyIncome": "96751.26",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37394",
+        "AverageFamilyIncome": "74551.81",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "17782",
+        "AverageFamilyIncome": "51268.6",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "32489",
+        "AverageFamilyIncome": "63393.55",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "36095",
+        "AverageFamilyIncome": "52507.59",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18879",
+        "AverageFamilyIncome": "32529.26",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22215",
+        "AverageFamilyIncome": "48647.14",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25894",
+        "AverageFamilyIncome": "39417.62",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "34487",
+        "AverageFamilyIncome": "56531.31",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "37031",
+        "AverageFamilyIncome": "57117.48",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33227",
+        "AverageFamilyIncome": "40781.84",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "11601",
+        "AverageFamilyIncome": "29912.15",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21418",
+        "AverageFamilyIncome": "26529.51",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "52242",
+        "AverageFamilyIncome": "91944.43",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43046",
+        "AverageFamilyIncome": "77844.45",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "37271",
+        "AverageFamilyIncome": "63775.86",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "35160",
+        "AverageFamilyIncome": "60439.11",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "20819",
+        "AverageFamilyIncome": "83346.84",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21420",
+        "AverageFamilyIncome": "51136.11",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "25176",
+        "AverageFamilyIncome": "79614.32",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "15272",
+        "AverageFamilyIncome": "31959.81",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "19366",
+        "AverageFamilyIncome": "48054.63",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "48189",
+        "AverageFamilyIncome": "103263.14",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "18936",
+        "AverageFamilyIncome": "53600.77",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22311",
+        "AverageFamilyIncome": "31016.12",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "30696",
+        "AverageFamilyIncome": "50520",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "46274",
+        "AverageFamilyIncome": "112397.83",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16020",
+        "AverageFamilyIncome": "44547.68",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "44636",
+        "AverageFamilyIncome": "90632.33",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "27788",
+        "AverageFamilyIncome": "95378.54",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "26825",
+        "AverageFamilyIncome": "44878.71",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "31688",
+        "AverageFamilyIncome": "55184.88",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "38009",
+        "AverageFamilyIncome": "77305.35",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21980",
+        "AverageFamilyIncome": "108473.44",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "31344",
+        "AverageFamilyIncome": "62521.01",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "41818",
+        "AverageFamilyIncome": "90083.99",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "39432",
+        "AverageFamilyIncome": "62677.27",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "19987",
+        "AverageFamilyIncome": "82072.86",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "44330",
+        "AverageFamilyIncome": "78068.79",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "41369",
+        "AverageFamilyIncome": "80643.74",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "25255",
+        "AverageFamilyIncome": "100872.78",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "41010",
+        "AverageFamilyIncome": "81448.63",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "45125",
+        "AverageFamilyIncome": "93870.01",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "50610",
+        "AverageFamilyIncome": "78227.76",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "24606",
+        "AverageFamilyIncome": "55950.49",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "22009",
+        "AverageFamilyIncome": "70343.27",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "54865",
+        "AverageFamilyIncome": "106429.17",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "32147",
+        "AverageFamilyIncome": "64873.01",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16361",
+        "AverageFamilyIncome": "51886.47",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "27759",
+        "AverageFamilyIncome": "66867.95",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "16898",
+        "AverageFamilyIncome": "78406.72",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34213",
+        "AverageFamilyIncome": "71873.4",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "30496",
+        "AverageFamilyIncome": "52454.06",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "48236",
+        "AverageFamilyIncome": "99694.61",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "37963",
+        "AverageFamilyIncome": "80731.12",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "33656",
+        "AverageFamilyIncome": "65324.46",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "46649",
+        "AverageFamilyIncome": "105199.44",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "43747",
+        "AverageFamilyIncome": "82875.91",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33166",
+        "AverageFamilyIncome": "55925.32",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "32956",
+        "AverageFamilyIncome": "64999.51",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "18066",
+        "AverageFamilyIncome": "82400.9",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "17896",
+        "AverageFamilyIncome": "84818.34",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "34192",
+        "AverageFamilyIncome": "83771.68",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "16935",
+        "AverageFamilyIncome": "72876.79",
+        "Locale": "Small City"
+    },
+    {
+        "AverageCost": "21203",
+        "AverageFamilyIncome": "73393.86",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "33979",
+        "AverageFamilyIncome": "64882.84",
+        "Locale": "Large City"
+    },
+    {
+        "AverageCost": "37848",
+        "AverageFamilyIncome": "79113.98",
+        "Locale": "Small City"
+    }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "",
+    "type": "RangeDistributionFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "empty",
+    "primaryTargetObject": [
+      "0.521",
+      "0.7458"
+    ],
+    "content": "Most values for AdmissionRate are in the range 0.521 - 0.7458",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "typeInterestingness": "0.5",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "0.0569",
+    "secondaryTargetObject": "",
+    "content": "0.0569 (AdmissionRate) appears to be an outlier",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0.5",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "0.0584",
+    "secondaryTargetObject": "",
+    "content": "0.0584 (AdmissionRate) appears to be an outlier",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0.5",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "2",
+    "interestingness": "2.5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "0.0705",
+    "secondaryTargetObject": "",
+    "content": "0.0705 (AdmissionRate) appears to be an outlier",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0.5",
+    "attributeInterestingness": "1"
+  }
+]

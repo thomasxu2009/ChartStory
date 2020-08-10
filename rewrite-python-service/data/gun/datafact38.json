@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.6944444444444446",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "5",
+    "secondaryTargetObject": "Accidental",
+    "content": "Itmes with 5 (education) and Accidental (intent) has the lowest COUNT(*) (28)",
+    "attributes": [
+      "education",
+      "intent",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.4444444444444444",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.6944444444444446",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "2",
+    "secondaryTargetObject": "Suicide",
+    "content": "Itmes with 2 (education) and Suicide (intent) has the highest COUNT(*) (26321)",
+    "attributes": [
+      "education",
+      "intent",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.4444444444444444",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.6944444444444444",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "4",
+    "secondaryTargetObject": "Accidental",
+    "content": "Itmes with 4 (education) and Accidental (intent) has the second lowest COUNT(*) (146)",
+    "attributes": [
+      "education",
+      "intent",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.4444444444444444",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.6944444444444444",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "2",
+    "secondaryTargetObject": "Homicide",
+    "content": "Itmes with 2 (education) and Homicide (intent) has the second highest COUNT(*) (15649)",
+    "attributes": [
+      "education",
+      "intent",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.4444444444444444",
+    "attributeInterestingness": "0.25"
+  }
+]

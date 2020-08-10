@@ -1,0 +1,103 @@
+[
+  {
+    "id": "",
+    "type": "RelativeValueFact",
+    "tier": "1",
+    "interestingness": "3.8125",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "",
+    "secondaryTargetObject": "",
+    "diffFactor": "8.57",
+    "sourceCategory": "2004",
+    "targetCategory": "2015",
+    "attributes": [
+      "iyear",
+      "Attack Count"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "content": "The Attack Count for 2015 is 8.57 times of that for 2004",
+    "typeInterestingness": "0.8125",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.125",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "2004",
+    "secondaryTargetObject": "",
+    "content": "2004 (iyear) has the lowest Attack Count (98)",
+    "attributes": [
+      "iyear",
+      "Attack Count"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.125",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "2015",
+    "secondaryTargetObject": "",
+    "content": "2015 (iyear) has the highest Attack Count (938)",
+    "attributes": [
+      "iyear",
+      "Attack Count"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "1"
+  },
+  {
+    "id": "",
+    "type": "DerivedValueFact",
+    "tier": "1",
+    "interestingness": "3.0625",
+    "taskCategory": "DerivedValue",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "5164",
+    "content": "Total Attack Count across all iyears is 5164",
+    "attributes": [
+      "iyear",
+      "Attack Count"
+    ],
+    "typeInterestingness": "0.0625",
+    "attributeInterestingness": "1"
+  }
+]

@@ -1,0 +1,156 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    vertical-align: middle;
+}
+
+.i2g-mainGraph {
+    float: left;
+}
+
+.i2g-svg {
+    border: 0px solid black;
+    margin: 0px;
+}
+
+.i2g-nodeLabels {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+/*.selected.item  {
+    border: 3px solid teal;
+}*/
+
+.i2g-linkLabelBox {
+
+}
+
+.i2g-linkLabelText {
+    font-family: sans-serif;
+    stroke: none;
+}
+
+
+.i2g-widget {
+    width: 400px;
+    position: absolute;
+    z-index: 2;
+    padding: 15px;
+    background-color: #F7F7F7;
+    border-radius: 2px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    font-family: sans-serif;
+}
+
+.i2g-widget-close {
+    font-size: 1.1em;
+    float: right;
+    font-family: FontAwesome;
+}
+
+.i2g-widget-close:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.i2g-widget-img-box {
+    background-color: white;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.i2g-widget-img-box:hover {
+    z-index: 10;
+    box-shadow: 0px 0px 150px #000000;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.5);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.5);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.5);
+    transition: all 200ms ease-in;
+    transform: scale(1.5);
+}
+
+.i2g-big-img {
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* The Modal (background) */
+.i2g-modal {
+    display: none; /* Hidden by default */
+    position: absolute; /* Stay in place */
+    z-index: 3; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.2); /* Black w/ opacity */
+}
+
+/*Login*/
+.i2g-pad-modal-container {
+    padding: 15px;
+    background-color: #F7F7F7;
+    border-radius: 2px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.i2g-pad-modal-container h3 {
+    text-align: center;
+}
+
+/*lasso part*/
+.lasso path {
+    stroke: rgb(80, 80, 80);
+    stroke-width:2px;
+}
+
+.lasso .drawn {
+    fill-opacity:.05 ;
+}
+
+.lasso .loop_close {
+    fill: none;
+    stroke-dasharray: 4, 4;
+}
+
+.lasso .origin {
+    fill: #3399FF;
+    fill-opacity:.5;
+}
+
+.not_possible {
+    fill: rgb(200, 200, 200) !important;
+    stroke: rgb(200, 200, 200) !important;
+}
+
+.possible {
+    fill: #008080 !important;
+    stroke: #008080 !important;
+}
+
+.selected .i2g-nodeLabels, .selected .i2g-linkLabelText {
+    fill: #21ba45 !important;
+}
+

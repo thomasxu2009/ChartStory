@@ -1,0 +1,5182 @@
+[
+    {
+        "AdmissionRate": "0.8989",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8673",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8062",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5125",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5655",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8371",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8274",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6422",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6279",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8326",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7388",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9957",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6034",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7125",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8729",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8092",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3435",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7697",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8604",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4627",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9615",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.43",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6821",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3511",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3745",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8023",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7692",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7898",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9137",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7293",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6076",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5274",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5898",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5858",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.277",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7551",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8503",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8997",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5407",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7628",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6221",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8039",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6982",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7011",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6136",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5838",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6798",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6081",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5736",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7985",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7286",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.788",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.1055",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4802",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3123",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6626",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7215",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5831",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5218",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7161",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5747",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5815",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4579",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6872",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3082",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6752",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4624",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6968",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.18",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4521",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4239",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.2199",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.62",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.375",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4444",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5991",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.748",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4471",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.9119",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.492",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.1173",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7752",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7844",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.1817",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5668",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8018",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7482",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3895",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4677",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6137",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5412",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3705",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6798",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7409",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.872",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4239",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4628",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4681",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5055",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7265",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6654",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.1392",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.672",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3121",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4885",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8269",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6379",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6129",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6929",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6347",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5122",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.357",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.555",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6947",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8186",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6977",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8667",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.1984",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7921",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7016",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6325",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5575",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.526",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7587",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.91",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.8771",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.2228",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.3743",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7743",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7673",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.875",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.8212",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7116",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6957",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6986",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9434",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.932",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6385",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6413",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5366",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6453",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6173",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7441",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8302",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6722",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.857",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7542",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.3178",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.2092",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.0705",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4168",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6468",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.625",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4312",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6007",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6558",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3308",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1697",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.493",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4257",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4678",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.666",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.776",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4894",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7009",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7104",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2732",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7405",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.45",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4773",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4987",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5875",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1336",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6045",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4304",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4989",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5681",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4655",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4737",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4044",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5343",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5102",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5746",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8412",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5889",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4524",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4567",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5925",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5932",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5221",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4847",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3378",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6377",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4808",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.709",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1992",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4013",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6998",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5353",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.568",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6032",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7829",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5137",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8221",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.477",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5543",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5704",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2633",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5493",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6803",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6798",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.52",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5466",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5608",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4529",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5654",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5837",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.69",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6684",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5576",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4377",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6118",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.514",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6547",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8299",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6807",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3802",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7798",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.494",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8064",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5522",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4339",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5385",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5365",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8359",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.752",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8009",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6411",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7643",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "1",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7766",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6565",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.905",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9977",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.617",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9963",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7184",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7595",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6799",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6694",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.2865",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.0881",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5441",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5987",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6191",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.718",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6781",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.657",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9299",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.714",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.695",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6239",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5838",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6129",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5697",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6892",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7069",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5727",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5587",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6875",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8747",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.914",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7488",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6289",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5512",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6431",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6365",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5234",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5613",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.1532",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5981",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8196",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8859",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4097",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7878",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5997",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5141",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5054",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5977",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7887",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8419",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9022",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9372",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5931",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6871",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5545",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6054",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7158",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.661",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6121",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.637",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8409",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6002",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5506",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7884",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6673",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7231",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9732",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8309",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6958",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8443",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7225",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6934",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8306",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7355",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7003",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7217",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7625",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7945",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5381",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7116",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5795",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9515",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.223",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7285",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7218",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5622",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5362",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6419",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9754",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8568",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.876",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7157",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7969",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6955",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.658",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7752",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6171",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6411",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7542",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6595",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7742",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6693",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5018",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9542",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.3506",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8252",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6012",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8023",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6903",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7212",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5337",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6845",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8331",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7609",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9617",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8802",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5818",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5067",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7765",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5766",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.869",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6057",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5882",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.644",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5045",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6069",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8917",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5285",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5862",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9228",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.4472",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.537",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5988",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.866",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7223",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9888",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7898",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.4707",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8968",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.4405",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.735",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9576",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.4502",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6573",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9478",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3401",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.45",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6844",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6857",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7127",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6002",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8219",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3774",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.671",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6861",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5136",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7112",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5381",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8449",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8217",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.467",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "1",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8108",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8775",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9615",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7416",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9232",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6597",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3544",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4363",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6074",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7623",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8349",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7423",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6744",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8707",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6151",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5036",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8694",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7724",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.84",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6615",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.448",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.359",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4888",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.593",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2643",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5443",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1495",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.2604",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7989",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6293",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.854",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8106",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6536",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8584",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.828",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7244",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5176",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5903",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5945",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8102",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1813",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.58",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6315",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5502",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5757",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6741",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4964",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5494",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7204",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6034",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5959",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6655",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7587",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6779",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.1428",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.2821",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.576",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6255",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4379",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.3222",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4561",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.3704",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.786",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6692",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6835",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4798",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6049",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7165",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7211",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5167",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4133",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.0584",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7614",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6749",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6397",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6294",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8921",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6982",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.0815",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7726",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6065",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8047",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.672",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.3231",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7492",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7243",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6929",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4897",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6992",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7213",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7091",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.825",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.1884",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.2911",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5761",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8151",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7487",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7318",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.1702",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6062",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5628",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5639",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6791",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3751",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7135",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6975",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6304",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7263",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.486",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6147",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6398",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.759",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6159",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6807",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.826",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7253",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6689",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9183",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4365",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6125",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9378",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6567",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3326",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6865",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7659",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6284",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7809",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7313",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6538",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.66",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5148",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6842",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7865",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6765",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6505",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5883",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7624",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8285",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6086",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6678",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7458",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9485",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.2095",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7998",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5239",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9617",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6322",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6557",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.3416",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6555",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.4442",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6916",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5895",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7822",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5764",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8911",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9521",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6915",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5873",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7554",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8691",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7516",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7485",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5919",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.55",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7265",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8617",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6089",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6546",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6075",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8291",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4842",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5573",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8941",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6464",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4745",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5936",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4349",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2272",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.673",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6482",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8566",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1386",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6631",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3551",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4877",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6108",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8696",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6506",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8083",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7063",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5926",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8095",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6425",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6524",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6814",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.643",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6629",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7611",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6095",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9728",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.2218",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7861",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.33",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8215",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7419",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7219",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7241",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7543",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6443",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9886",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9022",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6756",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8546",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.851",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.1555",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5806",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.719",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5778",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7514",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.53",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.8891",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.8449",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9423",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "1",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6683",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.6056",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7167",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7152",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7665",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7173",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5846",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7364",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8486",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.3333",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6832",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7078",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7689",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6404",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5701",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5229",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.489",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8512",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8396",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5992",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.0978",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8472",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7748",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8928",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7365",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6408",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9094",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7743",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8819",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7791",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6547",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.0741",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5526",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7187",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5408",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7916",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3816",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6211",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6321",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4186",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4136",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6458",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.852",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9975",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6814",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.634",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.698",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2053",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7251",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6403",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2638",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.0742",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6701",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.0774",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1556",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7908",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7189",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7978",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5509",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4713",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2719",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8424",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5871",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9108",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9212",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7502",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.619",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.869",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8067",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6617",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1603",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7463",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7267",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.86",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.731",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5695",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6659",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2605",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6633",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7407",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9671",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7683",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7474",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7523",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5859",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5572",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.412",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.726",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6016",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3568",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7999",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4121",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8224",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6805",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3505",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7538",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6277",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5316",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5494",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7309",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5264",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5898",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5545",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4287",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5652",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3948",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5052",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4754",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4774",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4683",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5154",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4566",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4359",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5073",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4863",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3319",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5804",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4564",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6396",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4949",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3728",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8542",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2411",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7489",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6988",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5967",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8216",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6323",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4177",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6759",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4489",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3107",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6983",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6154",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2561",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1342",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6217",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5715",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5398",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5496",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4817",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7831",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6818",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6418",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3668",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6806",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7122",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6447",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6232",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6122",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5429",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4979",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6964",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6403",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2759",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6852",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6002",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5033",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4521",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5001",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4676",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5419",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9086",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7204",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9609",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4884",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7686",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4107",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6738",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.582",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6448",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.696",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.793",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5565",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3766",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4868",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5689",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8307",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.5662",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.737",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.841",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.829",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9649",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.2548",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7438",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "1",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6396",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5308",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7247",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7604",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4188",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7401",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3328",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.525",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6398",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7325",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9711",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6825",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6287",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8551",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5297",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.716",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4597",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6832",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7222",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5736",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8334",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8302",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3838",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8514",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5561",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7179",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6387",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6676",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5421",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.712",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6349",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8755",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7596",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9024",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3041",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.494",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6785",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5553",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7295",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7533",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7374",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7607",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.3856",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9073",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5782",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7713",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.4603",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8932",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5633",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6997",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7182",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4934",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8398",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9814",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4331",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7337",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.598",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6321",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4767",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7602",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5646",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7198",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8044",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4354",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5445",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6246",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7992",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.884",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9026",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4059",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5592",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7528",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6285",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.9219",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.538",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7044",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7135",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7894",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7417",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8619",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4853",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3225",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5784",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6231",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6487",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.758",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7762",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8576",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5969",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8856",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3992",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2951",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7428",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9269",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9522",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2549",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.588",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5785",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6834",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4444",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.815",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7409",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7844",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6409",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8735",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6957",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8042",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6802",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4163",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6591",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.2349",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7585",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7964",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9049",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.329",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7205",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8179",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5565",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8021",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3414",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5813",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6686",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.3084",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6133",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8777",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7162",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.455",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9229",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7536",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.659",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7186",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6489",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5632",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6876",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.4616",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5531",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8408",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7379",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6943",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8199",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8186",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8548",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8519",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8731",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8307",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7994",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7905",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8793",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8918",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8634",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.542",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7983",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8271",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7774",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.811",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.845",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1224",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6408",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7539",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5131",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5635",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8532",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9311",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.9038",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5613",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.954",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7393",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8051",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5838",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7606",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7873",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6875",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7503",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.652",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.8341",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6698",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7233",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.1432",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6387",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.655",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6633",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.6585",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7484",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.489",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7523",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7336",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.5267",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.7351",
+        "Region": "Mid-Atlantic"
+    },
+    {
+        "AdmissionRate": "0.0918",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7655",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.5979",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6915",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7871",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.2731",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6706",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6502",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6887",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.937",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7031",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8041",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.526",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5787",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5326",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6258",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6499",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5201",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6973",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5667",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6397",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4216",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5322",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5908",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5791",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.66",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5122",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7304",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.606",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.888",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7313",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5456",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7692",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7404",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5079",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6422",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8812",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7225",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.688",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6809",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8924",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8297",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7023",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.7239",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.9334",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.6608",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8608",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.919",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.969",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.8788",
+        "Region": "Great Plains"
+    },
+    {
+        "AdmissionRate": "0.521",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8595",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.463",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7987",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5103",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3762",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6657",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4745",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "1",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.473",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.527",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8649",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3968",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9203",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5464",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6377",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4916",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2335",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9165",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6995",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7259",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3978",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6841",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6996",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.683",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4226",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5816",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5764",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9922",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6027",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3826",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.713",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7757",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7249",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7668",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9316",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7843",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.772",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7225",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7412",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1274",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4894",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8049",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5861",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5747",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4685",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9258",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.423",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5516",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9011",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7362",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6818",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.3759",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7318",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9509",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5841",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5382",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4589",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9307",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7682",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4785",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4066",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9489",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8468",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5924",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7178",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5969",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.2578",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6561",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6217",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9858",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4232",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.1674",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7853",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7724",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6499",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9262",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5823",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.507",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5217",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5687",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7508",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5392",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.522",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5682",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.881",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6947",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5998",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4019",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5857",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9981",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8203",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4739",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.5087",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8401",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7327",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4503",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.663",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.2992",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.8603",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.6393",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.9862",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.7403",
+        "Region": "Southwest"
+    },
+    {
+        "AdmissionRate": "0.4942",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.3604",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5709",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9674",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.8174",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.7517",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9205",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7079",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.9688",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.9934",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.1716",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6349",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7511",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6831",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.994",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.8257",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.7755",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6329",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5729",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5493",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3321",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8514",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5902",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4106",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6572",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6505",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7411",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6203",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5486",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3605",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.693",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6356",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2165",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8136",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6369",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8835",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8096",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8252",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6499",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7679",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7831",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.637",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8343",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5572",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3116",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7281",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8456",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9987",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8431",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7449",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6913",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.2999",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4732",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9459",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5848",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9311",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.1843",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8216",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7967",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.9709",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6651",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.972",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7676",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8522",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.876",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7214",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7323",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.9286",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8208",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5523",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8371",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.5696",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.4321",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.9091",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4948",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4267",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6905",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.457",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5734",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6649",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7446",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7868",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.3639",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.8102",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4478",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7122",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.5131",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7696",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.851",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.6892",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.7887",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6769",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8423",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8114",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7018",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6992",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7656",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6621",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7146",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7561",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5745",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6839",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5397",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.5907",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7515",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8194",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9899",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.706",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8468",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7646",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8476",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.72",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6356",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8134",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.7547",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8927",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8927",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6792",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8608",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9647",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8663",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.8285",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.9569",
+        "Region": "Rocky Mountains"
+    },
+    {
+        "AdmissionRate": "0.9782",
+        "Region": "Outlying Areas"
+    },
+    {
+        "AdmissionRate": "0.0569",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6042",
+        "Region": "Great Lakes"
+    },
+    {
+        "AdmissionRate": "0.6251",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7568",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.8523",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.3498",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.444",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6579",
+        "Region": "Southeast"
+    },
+    {
+        "AdmissionRate": "0.4207",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.594",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.4107",
+        "Region": "New England"
+    },
+    {
+        "AdmissionRate": "0.6443",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.6635",
+        "Region": "Far West"
+    },
+    {
+        "AdmissionRate": "0.7997",
+        "Region": "Rocky Mountains"
+    }
+]

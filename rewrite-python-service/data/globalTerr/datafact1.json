@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.791666666666667",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Melee",
+    "secondaryTargetObject": "2004",
+    "content": "Melee (weaptype1_txt) has the lowest Attack Count (1) for 2004 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "weaptype1_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "0.6666666666666667"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.791666666666667",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Explosives/Bombs/Dynamite",
+    "secondaryTargetObject": "2015",
+    "content": "Explosives/Bombs/Dynamite (weaptype1_txt) has the highest Attack Count (938) for 2015 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "weaptype1_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "0.6666666666666667"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.7916666666666667",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Incendiary",
+    "secondaryTargetObject": "2004",
+    "content": "Incendiary (weaptype1_txt) has the second lowest Attack Count (1) for 2004 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "weaptype1_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "0.6666666666666667"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.7916666666666667",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Explosives/Bombs/Dynamite",
+    "secondaryTargetObject": "2014",
+    "content": "Explosives/Bombs/Dynamite (weaptype1_txt) has the second highest Attack Count (840) for 2014 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "weaptype1_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.125",
+    "attributeInterestingness": "0.6666666666666667"
+  }
+]

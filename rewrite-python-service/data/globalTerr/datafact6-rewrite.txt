@@ -1,0 +1,3 @@
+Total attack count across all iyears is 5164. 
+The attack count for 2015 is 8.57 times of that for 2004. 
+The year of 2015 has the highest attack count of 938, whilst 2004 has the lowest of that as 98.

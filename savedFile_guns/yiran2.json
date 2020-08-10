@@ -1,0 +1,60 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Stacked Area Chart of month vs. Number of Records in 2014 Colored by intent",
+        "mark": "area",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "month"
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Number of Records"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "intent",
+                "scale": {
+                    "scheme": "category10"
+                }
+            }
+        },
+        "description": "stackedAreaChart",
+        "width": 1534.64,
+        "height": 526.302,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "month": "number",
+                    "Number of Records": "number"
+                }
+            }
+        }
+    },
+    "user": "guest",
+    "dateTime": {
+        "compare": "1567897891789",
+        "fullTime": "Sat Sep 07 2019 16:11:31 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "7",
+        "hour": "16",
+        "minute": "11",
+        "second": "31"
+    },
+    "queryText": "SELECT intent,\nmonth,\n1 as 'Number of Records'\nFROM dataset\nWHERE year = \"2014\"\nAND intent != \"Undetermined\"\nAND intent != \"NA\"",
+    "chartType": "areaChart",
+    "specific": "stackedAreaChart",
+    "xAxisField": "month",
+    "yAxisField": "Number of Records",
+    "colorField": "intent",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category10",
+    "visTitleText": "month vs. Number of Records",
+    "keywords": "areaChart;stackedAreaChart;month;Number of Records;",
+    "captions": "areaChart: stackedAreaChart;month vs. Number of Records;"
+}

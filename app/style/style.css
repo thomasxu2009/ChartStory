@@ -1,0 +1,202 @@
+/* latin */
+@font-face {
+  font-family: 'Gochi Hand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Gochi Hand'), local('GochiHand-Regular'), url(https://fonts.gstatic.com/s/gochihand/v10/hES06XlsOjtJsgCkx1Pkfon_-18kTWE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Komika Hand';
+  src: url('fonts/Komika-Hand/Komika_Hand.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Komika Hand';
+  src: url('fonts/Komika-Hand/Komika_Hand_Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Komika Hand';
+  src: url('fonts/Komika-Hand/Komika_Hand_Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Komika Hand';
+  src: url('fonts/Komika-Hand/Komika_Hand_Bold_Italic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Komika Parch';
+  src: url('fonts/Komika-Hand/Komika_Parch.ttf') format('truetype');
+}
+
+img {
+  width: 100% !important;
+  height: 100% !important;
+  vertical-align: middle;
+}
+
+body {
+  background-color: #aaa;
+}
+
+.special-comic-text {
+  font-family: 'Gochi Hand', cursive !important;
+}
+
+/* Split.js */
+.split {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.gutter {
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.gutter.gutter-horizontal {
+  cursor: ew-resize;
+}
+
+.gutter.gutter-vertical {
+  cursor: ns-resize;
+}
+
+.split, .gutter.gutter-horizontal, .gutter.gutter-vertical {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+
+/* Motif Panel */
+.motif-tree-label {
+  font-family: 'Gochi Hand', cursive !important;
+  font-size: 14px;
+}
+
+.tooltipMenu {
+  position: absolute;
+  top: 0;
+}
+
+/* Layout Panel */
+.aspect-ratio-box {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  /*border: 1px solid #888;
+  box-shadow: 5px 10px 10px 5px #888;*/
+}
+
+.aspect-ratio-box-inside {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  margin: 5px;
+}
+
+.single-motif-container {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  margin: 5px;
+  border: 5px solid transparent;
+}
+
+.ui.label {
+  position: absolute;
+  z-index: 1;
+  margin-top: 5px;
+  margin-left: 5px !important;
+}
+
+.single-node-container {
+  border-width: 2px;
+}
+
+.vis-panel-container {
+  /*-webkit-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);*/
+  overflow: hidden;
+  width: calc(100% - 0px);
+  height: calc(100% - 0px);
+  border-radius: 0px;
+  margin: 0px;
+}
+
+.text-panel-container {
+  /*-webkit-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);*/
+  text-align: center;
+  position: relative;
+  width: calc(100% - 0px);
+  height: calc(100% - 0px);
+  margin: 0px;
+  border: 0px solid #a7a7a7;
+  border-radius: 0px;
+  overflow: visible;
+}
+
+/* Authoring Panel */
+.authoring-ratio-item {
+  text-align: center;
+}
+
+.authoring-theme-item {
+  text-align: center;
+}
+
+/* Quill */
+.quill-editor-container {
+  height: auto;
+  min-height: 100%;
+}
+.quill-editor-container .ql-editor {
+  font-size: 14px;
+  overflow-y: visible; 
+  padding: 5px 10px;
+}
+.quill-scrolling-container {
+  height: 100%;
+  min-height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.quill-scrolling-container:hover {
+  overflow-y: auto;
+}
+
+.ql-picker.ql-size .ql-picker-item[data-value="10px"]::before {
+  content: 'Normal' !important;
+  font-size: 10px !important;
+}
+
+.ql-picker.ql-size .ql-picker-item[data-value="12px"]::before {
+  content: 'Large' !important;
+  font-size: 12px !important;
+}
+
+.ql-picker.ql-size .ql-picker-item[data-value="14px"]::before {
+  content: 'Huge' !important;
+  font-size: 14px !important;
+}
+
+/*body {
+  text-transform: uppercase;
+}*/

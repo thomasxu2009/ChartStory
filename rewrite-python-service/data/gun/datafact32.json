@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "7",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Accidental",
+    "secondaryTargetObject": "86",
+    "content": "Accidental (intent) has the lowest Number of Records (1) for 86 (age)",
+    "attributes": [
+      "age",
+      "Number of Records",
+      "intent"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "7",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Homicide",
+    "secondaryTargetObject": "22",
+    "content": "Homicide (intent) has the highest Number of Records (1628) for 22 (age)",
+    "attributes": [
+      "age",
+      "Number of Records",
+      "intent"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Accidental",
+    "secondaryTargetObject": "87",
+    "content": "Accidental (intent) has the second lowest Number of Records (1) for 87 (age)",
+    "attributes": [
+      "age",
+      "Number of Records",
+      "intent"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Homicide",
+    "secondaryTargetObject": "21",
+    "content": "Homicide (intent) has the second highest Number of Records (1570) for 21 (age)",
+    "attributes": [
+      "age",
+      "Number of Records",
+      "intent"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  }
+]

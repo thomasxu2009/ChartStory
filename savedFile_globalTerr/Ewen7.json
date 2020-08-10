@@ -1,0 +1,54 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Terrorist Attacks with Explosives in Iraq by Province",
+        "mark": {"type":"bar", "color":"#b3de69"},
+        "encoding": {
+            "x": {
+                "type": "ordinal",
+                "field": "provstate",
+                "axis": {
+                    "title": "Province/State"
+                }
+            },
+            "y": {
+                "type": "quantitative",
+                "field": "Attack Count"
+            }
+        },
+        "description": "simpleBarChart",
+        "width": 1322,
+        "height": 505.5,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Ewen",
+    "dateTime": {
+        "compare": "1478837692000", 
+        "fullTime": "Thu Nov 10 2016 20:14:52", 
+        "year": "2016", 
+        "month": "11", 
+        "date": "10", 
+        "hour": "20", 
+        "minute": "14", 
+        "second": "52"
+    },
+    "queryText": "SELECT provstate,\nCOUNT(*) AS \"Attack Count\"\nFROM dataset\nWHERE country_txt = \"Iraq\"\nAND weaptype1_txt != \"Explosives/Bombs/Dynamite\"\nAND iyear >= 2004\nGROUP BY provstate",
+    "chartType": "barChart",
+    "specific": "simpleBarChart",
+    "xAxisField": "provstate",
+    "yAxisField": "Attack Count",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "Terrorist Attacks with Explosives in Iraq by Province, 2004-2015",
+    "keywords": "attacks;explosives;geographic;province;Iraq;Baghdad;",
+    "captions": "If we look by region, can we identify especially prone areas for attack?;Baghdad has clearly been at highest risk, historically.;"
+}

@@ -1,0 +1,63 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Colored Scatter Plot of AverageCost vs. AverageFamilyIncome Colored by Locale",
+        "mark": "point",
+        "encoding": {
+            "x": {
+                "type": "quantitative",
+                "field": "AverageCost"
+            },
+            "y": {
+                "type": "quantitative",
+                "field": "AverageFamilyIncome"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "Locale",
+                "scale": {
+                    "scheme": "category10"
+                }
+            },
+            "shape": {
+                "type": "nominal",
+                "field": "Locale"
+            }
+        },
+        "description": "coloredScatterPlot",
+        "width": 907.2,
+        "height": 298.538,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "AverageCost": "number",
+                    "AverageFamilyIncome": "number"
+                }
+            }
+        }
+    },
+    "user": "yiranli",
+    "dateTime": {
+        "compare": "1561687247343",
+        "fullTime": "Thu Jun 27 2019 19:00:47 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "6",
+        "date": "27",
+        "hour": "19",
+        "minute": "0",
+        "second": "47"
+    },
+    "queryText": "SELECT AverageCost,\nAverageFamilyIncome,\nLocale\nFROM dataset\nWHERE Locale = \"Large City\"\nOR Locale = \"Small City\"",
+    "chartType": "scatterPlot",
+    "specific": "coloredScatterPlot",
+    "xAxisField": "AverageCost",
+    "yAxisField": "AverageFamilyIncome",
+    "colorField": "Locale",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category10",
+    "visTitleText": "AverageCost vs. AverageFamilyIncome",
+    "keywords": "scatterPlot;coloredScatterPlot;AverageCost;AverageFamilyIncome;",
+    "captions": "scatterPlot: coloredScatterPlot;AverageCost vs. AverageFamilyIncome;"
+}

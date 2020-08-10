@@ -1,0 +1,51 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Strip Plot of age vs. intent",
+        "mark": "tick",
+        "encoding": {
+            "x": {
+                "type": "quantitative",
+                "field": "age"
+            },
+            "y": {
+                "type": "ordinal",
+                "field": "intent"
+            }
+        },
+        "description": "stripPlot",
+        "width": 1534.64,
+        "height": 526.302,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "age": "number"
+                }
+            }
+        }
+    },
+    "user": "guest",
+    "dateTime": {
+        "compare": "1567897313364",
+        "fullTime": "Sat Sep 07 2019 16:01:53 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "7",
+        "hour": "16",
+        "minute": "1",
+        "second": "53"
+    },
+    "queryText": "SELECT age,\nintent\nFROM dataset\nWHERE intent != \"NA\"\nAND intent != \"Undetermined\"\nAND age != \"NA\"",
+    "chartType": "otherCharts",
+    "specific": "stripPlot",
+    "xAxisField": "age",
+    "yAxisField": "intent",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "age vs. intent",
+    "keywords": "otherCharts;stripPlot;age;intent;",
+    "captions": "otherCharts: stripPlot;age vs. intent;"
+}

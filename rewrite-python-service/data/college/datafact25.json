@@ -1,0 +1,51 @@
+[
+  {
+    "id": "",
+    "type": "RangeDistributionFact",
+    "tier": "1",
+    "interestingness": "5",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "empty",
+    "primaryTargetObject": [
+      "0.5687",
+      "0.8252"
+    ],
+    "content": "Most values for AdmissionRate are in the range 0.5687 - 0.8252",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "1",
+    "interestingness": "5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "0.18",
+    "secondaryTargetObject": "",
+    "content": "0.18 (AdmissionRate) appears to be an outlier",
+    "attributes": [
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  }
+]

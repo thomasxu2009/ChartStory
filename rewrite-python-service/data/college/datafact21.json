@@ -1,0 +1,112 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "4",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Large City",
+    "secondaryTargetObject": "9565",
+    "content": "Itmes with Large City (Locale) and 9565 (AverageFacultySalary) has the lowest AverageFamilyIncome (120106.07)",
+    "attributes": [
+      "Locale",
+      "AverageFacultySalary",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ]
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "4",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Large City",
+    "secondaryTargetObject": "8346",
+    "content": "Itmes with Large City (Locale) and 8346 (AverageFacultySalary) has the highest AverageFamilyIncome (134101.78)",
+    "attributes": [
+      "Locale",
+      "AverageFacultySalary",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ]
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Mid-size City",
+    "secondaryTargetObject": "11662",
+    "content": "Itmes with Mid-size City (Locale) and 11662 (AverageFacultySalary) has the second lowest AverageFamilyIncome (120161.97)",
+    "attributes": [
+      "Locale",
+      "AverageFacultySalary",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ]
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Distant Town",
+    "secondaryTargetObject": "12144",
+    "content": "Itmes with Distant Town (Locale) and 12144 (AverageFacultySalary) has the second highest AverageFamilyIncome (132813.41)",
+    "attributes": [
+      "Locale",
+      "AverageFacultySalary",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ]
+  }
+]

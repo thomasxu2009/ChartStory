@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "7",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "F",
+    "secondaryTargetObject": "1",
+    "content": "F (sex) has the lowest Number of Records (370) for 1 (month)",
+    "attributes": [
+      "month",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "7",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "M",
+    "secondaryTargetObject": "8",
+    "content": "M (sex) has the highest Number of Records (2530) for 8 (month)",
+    "attributes": [
+      "month",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "F",
+    "secondaryTargetObject": "5",
+    "content": "F (sex) has the second lowest Number of Records (381) for 5 (month)",
+    "attributes": [
+      "month",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "M",
+    "secondaryTargetObject": "6",
+    "content": "M (sex) has the second highest Number of Records (2515) for 6 (month)",
+    "attributes": [
+      "month",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  }
+]

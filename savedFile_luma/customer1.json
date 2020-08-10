@@ -1,0 +1,79 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "bar",
+    "description": "stackedBarChart",
+    "encoding": {
+      "x": {
+        "type": "nominal",
+        "field": "cloth size"
+      },
+      "y": {
+        "aggregate": "sum",
+        "type": "quantitative",
+        "field": "COUNT"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "gender"
+      }
+    },
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "transform": [
+      {
+        "filter": {
+          "field": "cloth size",
+          "oneOf": [
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "l",
+            "m",
+            "s",
+            "xl",
+            "xs",
+            "xxs"
+          ]
+        }
+      }
+    ],
+    "data": {
+      "url": "/datasets/dataset.json"
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581885802717",
+    "fullTime": "Sun Feb 16 2020 15:43:22 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "15",
+    "minute": "43",
+    "second": "22"
+  },
+  "queryText": "SELECT `cloth size`,\n1 as \"COUNT\",\ngender\nFROM dataset",
+  "chartType": "barChart",
+  "specific": "stackedBarChart",
+  "xAxisField": "cloth size",
+  "yAxisField": "COUNT",
+  "colorField": "gender",
+  "columnField": "",
+  "sizeField": "",
+  "colorChoice": "default",
+  "visTitleText": "cloth size vs. COUNT",
+  "keywords": "barChart;stackedBarChart;cloth size;COUNT;",
+  "captions": "barChart: stackedBarChart;cloth size vs. COUNT;"
+}

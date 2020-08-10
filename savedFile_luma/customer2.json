@@ -1,0 +1,76 @@
+{
+	"sourceCode": {
+		"$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+		"mark": "bar",
+		"encoding": {
+			"x": {
+				"type": "nominal",
+				"field": "preferred color"
+			},
+			"y": {
+				"aggregate": "sum",
+				"type": "quantitative",
+				"field": "COUNT"
+			},
+			"color": {
+				"type": "nominal",
+				"field": "gender"
+			}
+		},
+		"config": {
+		  "line": {
+		    "point": true
+		  },
+		  "scale": {
+		    "useUnaggregatedDomain": true
+		  }
+		},
+		"transform": [
+		  {
+		    "filter": {
+		      "field": "preferred color",
+		      "oneOf": [
+		        "black",
+		        "blue",
+		        "gray",
+		        "green",
+		        "lavender",
+		        "orange",
+		        "purple",
+		        "red",
+		        "tan",
+		        "white",
+		        "yellow"
+		      ]
+		    }
+		  }
+		],
+		"description": "stackedBarChart",
+		"data": {
+			"url": "/datasets/dataset.json"
+		}
+	},
+	"user": "Tom",
+	"dateTime": {
+		"compare": "1581892632048",
+		"fullTime": "Sun Feb 16 2020 17:37:12 GMT-0500 (Eastern Standard Time)",
+		"year": "2020",
+		"month": "2",
+		"date": "16",
+		"hour": "17",
+		"minute": "37",
+		"second": "12"
+	},
+	"queryText": "SELECT `preferred color`,\n1 as \"COUNT\",\ngender\nFROM dataset",
+	"chartType": "barChart",
+	"specific": "stackedBarChart",
+	"xAxisField": "preferred color",
+	"yAxisField": "COUNT",
+	"colorField": "gender",
+	"columnField": "",
+	"sizeField": "",
+	"colorChoice": "default",
+	"visTitleText": "preferred color vs. COUNT",
+	"keywords": "barChart;stackedBarChart;preferred color;COUNT;",
+	"captions": "barChart: stackedBarChart;preferred color vs. COUNT;"
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "F",
+    "secondaryTargetObject": "Accidental",
+    "content": "F (sex) has the lowest Number of Records (218) for Accidental (intent)",
+    "attributes": [
+      "intent",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "M",
+    "secondaryTargetObject": "Suicide",
+    "content": "M (sex) has the highest Number of Records (54486) for Suicide (intent)",
+    "attributes": [
+      "intent",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "M",
+    "secondaryTargetObject": "Accidental",
+    "content": "M (sex) has the second lowest Number of Records (1421) for Accidental (intent)",
+    "attributes": [
+      "intent",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "M",
+    "secondaryTargetObject": "Homicide",
+    "content": "M (sex) has the second highest Number of Records (29803) for Homicide (intent)",
+    "attributes": [
+      "intent",
+      "Number of Records",
+      "sex"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  }
+]

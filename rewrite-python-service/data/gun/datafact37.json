@@ -1,0 +1,116 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "6.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Accidental",
+    "secondaryTargetObject": "",
+    "content": "Accidental (intent) has the lowest age (62315)",
+    "attributes": [
+      "intent",
+      "age"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "6.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Suicide",
+    "secondaryTargetObject": "",
+    "content": "Suicide (intent) has the highest age (3178040)",
+    "attributes": [
+      "intent",
+      "age"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "4.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Homicide",
+    "secondaryTargetObject": "",
+    "content": "Homicide (intent) has the second lowest age (1147155)",
+    "attributes": [
+      "intent",
+      "age"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "4.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Homicide",
+    "secondaryTargetObject": "",
+    "content": "Homicide (intent) has the second highest age (1147155)",
+    "attributes": [
+      "intent",
+      "age"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.25"
+  }
+]

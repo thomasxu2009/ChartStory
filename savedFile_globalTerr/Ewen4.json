@@ -1,0 +1,63 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Yearly Terrorist Attacks in Baghdad by Weapon",
+        "mark": {"type":"line", "point":true},
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "iyear",
+                "axis": {
+                    "title": "Year"
+                }
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Attack Count"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "weaptype1_txt",
+                "legend": {
+                    "title": "Weapon Type"
+                }
+            }
+        },
+        "description": "multiSeriesLineChart",
+        "width": 1880,
+        "height": 688.141,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "iyear": "number",
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Tom",
+    "dateTime": {
+        "compare": "1568683925649",
+        "fullTime": "Mon Sep 16 2019 21:32:05 GMT-0400 (Eastern Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "16",
+        "hour": "21",
+        "minute": "32",
+        "second": "5"
+    },
+    "queryText": "SELECT iyear,\n1 as \"Attack Count\",\nweaptype1_txt\nFROM dataset\nWHERE country_txt = \"Iraq\"\nAND weaptype1_txt != \"0\"\nAND iyear >= 2004\nAND provstate = \"Baghdad\"",
+    "chartType": "lineChart",
+    "specific": "multiSeriesLineChart",
+    "xAxisField": "iyear",
+    "yAxisField": "Attack Count",
+    "colorField": "weaptype1_txt",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "default",
+    "visTitleText": "iyear vs. Attack Count",
+    "keywords": "lineChart;multiSeriesLineChart;iyear;Attack Count;",
+    "captions": "lineChart: multiSeriesLineChart;iyear vs. Attack Count;"
+}

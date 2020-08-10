@@ -1,0 +1,57 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "type": "nominal",
+        "field": "country",
+        "sort": "descending"
+      },
+      "y": {
+        "aggregate": "sum",
+        "type": "quantitative",
+        "field": "COUNT"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "gender"
+      }
+    },
+    "description": "stackedBarChart",
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "data": {
+      "url": "/datasets/dataset.json"
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581911105665",
+    "fullTime": "Sun Feb 16 2020 22:45:05 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "22",
+    "minute": "45",
+    "second": "5"
+  },
+  "queryText": "SELECT country,\n1 AS \"COUNT\",\ngender\nFROM dataset",
+  "chartType": "barChart",
+  "specific": "stackedBarChart",
+  "xAxisField": "country",
+  "yAxisField": "COUNT",
+  "colorField": "gender",
+  "columnField": "",
+  "sizeField": "",
+  "colorChoice": "default",
+  "visTitleText": "country vs. COUNT",
+  "keywords": "barChart;stackedBarChart;country;COUNT;",
+  "captions": "barChart: stackedBarChart;country vs. COUNT;"
+}

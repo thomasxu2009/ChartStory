@@ -1,0 +1,59 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Stacked Bar Chart of intent vs. Number of Records Colored by sex",
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "intent"
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Number of Records"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "sex",
+                "scale": {
+                    "scheme": "category10"
+                }
+            }
+        },
+        "description": "stackedBarChart",
+        "width": 1534.64,
+        "height": 526.302,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "Number of Records": "number"
+                }
+            }
+        }
+    },
+    "user": "yiranli",
+    "dateTime": {
+        "compare": "1567895660993",
+        "fullTime": "Sat Sep 07 2019 15:34:20 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "7",
+        "hour": "15",
+        "minute": "34",
+        "second": "20"
+    },
+    "queryText": "SELECT sex,\nintent,\n1 as 'Number of Records'\nFROM dataset\nWHERE intent != \"Undetermined\"\nAND intent != \"NA\"",
+    "chartType": "barChart",
+    "specific": "stackedBarChart",
+    "xAxisField": "intent",
+    "yAxisField": "Number of Records",
+    "colorField": "sex",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category10",
+    "visTitleText": "intent vs. Number of Records",
+    "keywords": "barChart;stackedBarChart;intent;Number of Records;",
+    "captions": "barChart: stackedBarChart;intent vs. Number of Records;"
+}

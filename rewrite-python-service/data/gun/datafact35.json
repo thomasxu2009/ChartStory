@@ -1,0 +1,97 @@
+[
+  {
+    "id": "",
+    "type": "RangeDistributionFact",
+    "tier": "1",
+    "interestingness": "5",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "empty",
+    "primaryTargetObject": [
+      "22",
+      "40"
+    ],
+    "content": "Most values for age are in the range 22 - 40",
+    "attributes": [
+      "age"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "1",
+    "interestingness": "5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "107",
+    "secondaryTargetObject": "",
+    "content": "107 (age) appears to be an outlier",
+    "attributes": [
+      "age"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "1",
+    "interestingness": "5",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "99",
+    "secondaryTargetObject": "",
+    "content": "99 (age) appears to be an outlier",
+    "attributes": [
+      "age"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "OutlierFact",
+    "tier": "2",
+    "interestingness": "3",
+    "taskCategory": "Anomaly",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "97",
+    "secondaryTargetObject": "",
+    "content": "97 (age) appears to be an outlier",
+    "attributes": [
+      "age"
+    ],
+    "keywords": [
+      "outlier",
+      "outliers",
+      "anomaly",
+      "anomalies"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  }
+]

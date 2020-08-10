@@ -1,0 +1,447 @@
+[
+    {
+        "Region": "Southeast",
+        "locale": "Mid-size City",
+        "COUNT(*)": 62
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Small City",
+        "COUNT(*)": 72
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Remote Rural",
+        "COUNT(*)": 7
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 19
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Large Suburb",
+        "COUNT(*)": 34
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Distant Town",
+        "COUNT(*)": 50
+    },
+    {
+        "Region": "Far West",
+        "locale": "Large City",
+        "COUNT(*)": 40
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Mid-size City",
+        "COUNT(*)": 15
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Large City",
+        "COUNT(*)": 29
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Small City",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Remote Town",
+        "COUNT(*)": 28
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Distant Rural",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Far West",
+        "locale": "Large Suburb",
+        "COUNT(*)": 24
+    },
+    {
+        "Region": "Far West",
+        "locale": "Mid-size City",
+        "COUNT(*)": 20
+    },
+    {
+        "Region": "Far West",
+        "locale": "Small Suburb",
+        "COUNT(*)": 4
+    },
+    {
+        "Region": "Far West",
+        "locale": "Small City",
+        "COUNT(*)": 10
+    },
+    {
+        "Region": "Far West",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 6
+    },
+    {
+        "Region": "Far West",
+        "locale": "Remote Town",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Far West",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Far West",
+        "locale": "Distant Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Remote Town",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Large City",
+        "COUNT(*)": 6
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Small City",
+        "COUNT(*)": 6
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Large Suburb",
+        "COUNT(*)": 2
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Mid-size City",
+        "COUNT(*)": 8
+    },
+    {
+        "Region": "New England",
+        "locale": "Mid-size City",
+        "COUNT(*)": 17
+    },
+    {
+        "Region": "New England",
+        "locale": "Large Suburb",
+        "COUNT(*)": 26
+    },
+    {
+        "Region": "New England",
+        "locale": "Fringe Town",
+        "COUNT(*)": 4
+    },
+    {
+        "Region": "New England",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "New England",
+        "locale": "Small City",
+        "COUNT(*)": 14
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Small City",
+        "COUNT(*)": 25
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Large Suburb",
+        "COUNT(*)": 80
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Large City",
+        "COUNT(*)": 50
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Large City",
+        "COUNT(*)": 48
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Small Suburb",
+        "COUNT(*)": 7
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 12
+    },
+    {
+        "Region": "Southeast",
+        "locale": "Fringe Town",
+        "COUNT(*)": 12
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 2
+    },
+    {
+        "Region": "Rocky Mountains",
+        "locale": "Distant Town",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Large City",
+        "COUNT(*)": 42
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Large Suburb",
+        "COUNT(*)": 39
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Distant Town",
+        "COUNT(*)": 38
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Mid-size City",
+        "COUNT(*)": 20
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Remote Town",
+        "COUNT(*)": 10
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Fringe Town",
+        "COUNT(*)": 13
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Small City",
+        "COUNT(*)": 34
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 7
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Small Suburb",
+        "COUNT(*)": 4
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 7
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Remote Town",
+        "COUNT(*)": 35
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Distant Town",
+        "COUNT(*)": 26
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Small City",
+        "COUNT(*)": 19
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Mid-size City",
+        "COUNT(*)": 13
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Fringe Town",
+        "COUNT(*)": 5
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Large Suburb",
+        "COUNT(*)": 12
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Remote Rural",
+        "COUNT(*)": 4
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Large City",
+        "COUNT(*)": 28
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Distant Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "New England",
+        "locale": "Remote Town",
+        "COUNT(*)": 5
+    },
+    {
+        "Region": "New England",
+        "locale": "Remote Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "New England",
+        "locale": "Small Suburb",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "New England",
+        "locale": "Distant Rural",
+        "COUNT(*)": 2
+    },
+    {
+        "Region": "New England",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Small Suburb",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Fringe Town",
+        "COUNT(*)": 11
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 6
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Distant Town",
+        "COUNT(*)": 17
+    },
+    {
+        "Region": "New England",
+        "locale": "Large City",
+        "COUNT(*)": 10
+    },
+    {
+        "Region": "Great Lakes",
+        "locale": "Distant Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Great Plains",
+        "locale": "Fringe Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 7
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Remote Town",
+        "COUNT(*)": 12
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Mid-size Suburb",
+        "COUNT(*)": 2
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Remote Town",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Remote Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Mid-size City",
+        "COUNT(*)": 9
+    },
+    {
+        "Region": "Mid-Atlantic",
+        "locale": "Distant Rural",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Distant Town",
+        "COUNT(*)": 11
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Large Suburb",
+        "COUNT(*)": 6
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Distant Rural",
+        "COUNT(*)": 1
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Fringe Town",
+        "COUNT(*)": 4
+    },
+    {
+        "Region": "Far West",
+        "locale": "Fringe Town",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Far West",
+        "locale": "Distant Town",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Southwest",
+        "locale": "Small Suburb",
+        "COUNT(*)": 2
+    },
+    {
+        "Region": "New England",
+        "locale": "Distant Town",
+        "COUNT(*)": 3
+    },
+    {
+        "Region": "Outlying Areas",
+        "locale": "Remote Town",
+        "COUNT(*)": 1
+    }
+]

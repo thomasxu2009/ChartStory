@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Egypt",
+    "secondaryTargetObject": "1970",
+    "content": "Egypt (country_txt) has the lowest Attack Count (1) for 1970 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "country_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "3.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Iraq",
+    "secondaryTargetObject": "2014",
+    "content": "Iraq (country_txt) has the highest Attack Count (3925) for 2014 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "country_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Lebanon",
+    "secondaryTargetObject": "1970",
+    "content": "Lebanon (country_txt) has the second lowest Attack Count (1) for 1970 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "country_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Iraq",
+    "secondaryTargetObject": "2013",
+    "content": "Iraq (country_txt) has the second highest Attack Count (2849) for 2013 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "country_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.5"
+  }
+]

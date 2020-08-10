@@ -1,0 +1,77 @@
+[
+    {
+        "education": "4",
+        "intent": "Suicide",
+        "COUNT(*)": 11147
+    },
+    {
+        "education": "3",
+        "intent": "Suicide",
+        "COUNT(*)": 15533
+    },
+    {
+        "education": "2",
+        "intent": "Suicide",
+        "COUNT(*)": 26321
+    },
+    {
+        "education": "1",
+        "intent": "Suicide",
+        "COUNT(*)": 9292
+    },
+    {
+        "education": "3",
+        "intent": "Accidental",
+        "COUNT(*)": 327
+    },
+    {
+        "education": "5",
+        "intent": "Suicide",
+        "COUNT(*)": 876
+    },
+    {
+        "education": "2",
+        "intent": "Homicide",
+        "COUNT(*)": 15649
+    },
+    {
+        "education": "3",
+        "intent": "Homicide",
+        "COUNT(*)": 5640
+    },
+    {
+        "education": "5",
+        "intent": "Homicide",
+        "COUNT(*)": 455
+    },
+    {
+        "education": "1",
+        "intent": "Homicide",
+        "COUNT(*)": 11839
+    },
+    {
+        "education": "1",
+        "intent": "Accidental",
+        "COUNT(*)": 492
+    },
+    {
+        "education": "2",
+        "intent": "Accidental",
+        "COUNT(*)": 633
+    },
+    {
+        "education": "4",
+        "intent": "Homicide",
+        "COUNT(*)": 1559
+    },
+    {
+        "education": "4",
+        "intent": "Accidental",
+        "COUNT(*)": 146
+    },
+    {
+        "education": "5",
+        "intent": "Accidental",
+        "COUNT(*)": 28
+    }
+]

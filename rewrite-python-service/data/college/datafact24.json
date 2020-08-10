@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Private For-Profit",
+    "secondaryTargetObject": "Far West",
+    "content": "Private For-Profit (Control) has the lowest Number of Records (1) for Far West (Region)",
+    "attributes": [
+      "Region",
+      "Number of Records",
+      "Control"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Private",
+    "secondaryTargetObject": "Southeast",
+    "content": "Private (Control) has the highest Number of Records (209) for Southeast (Region)",
+    "attributes": [
+      "Region",
+      "Number of Records",
+      "Control"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Private For-Profit",
+    "secondaryTargetObject": "Southwest",
+    "content": "Private For-Profit (Control) has the second lowest Number of Records (1) for Southwest (Region)",
+    "attributes": [
+      "Region",
+      "Number of Records",
+      "Control"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Private",
+    "secondaryTargetObject": "Great Lakes",
+    "content": "Private (Control) has the second highest Number of Records (152) for Great Lakes (Region)",
+    "attributes": [
+      "Region",
+      "Number of Records",
+      "Control"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  }
+]

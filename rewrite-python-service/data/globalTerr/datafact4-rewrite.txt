@@ -1,0 +1,5 @@
+Total attack count across all provstates is 4420. 
+The attack count for baghdad is 1000 times of that for kunar. 
+The province/state of baghdad has the highest attack count of 1001, contrariwise chechnya has the lowest of that as 1.
+
+Below are Wikipedia entries about Chechnya, Baghdad: Chechnya , officially the Chechen Republic , is a federal subject of Russia. Baghdad ) is the capital of Iraq and the second-largest city in the Arab world.

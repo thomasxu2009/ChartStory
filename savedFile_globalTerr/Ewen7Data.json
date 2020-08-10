@@ -1,0 +1,90 @@
+[
+    {
+        "provstate": "Al Anbar",
+        "Attack Count": 534
+    },
+    {
+        "provstate": "Al Qadisiyah",
+        "Attack Count": 6
+    },
+    {
+        "provstate": "Arbil",
+        "Attack Count": 17
+    },
+    {
+        "provstate": "At Tamim",
+        "Attack Count": 57
+    },
+    {
+        "provstate": "Babil",
+        "Attack Count": 134
+    },
+    {
+        "provstate": "Baghdad",
+        "Attack Count": 1001
+    },
+    {
+        "provstate": "Basra",
+        "Attack Count": 103
+    },
+    {
+        "provstate": "Chechnya",
+        "Attack Count": 1
+    },
+    {
+        "provstate": "Dhi Qar",
+        "Attack Count": 8
+    },
+    {
+        "provstate": "Diyala",
+        "Attack Count": 552
+    },
+    {
+        "provstate": "Karbala",
+        "Attack Count": 23
+    },
+    {
+        "provstate": "Kirkuk",
+        "Attack Count": 323
+    },
+    {
+        "provstate": "Kunar",
+        "Attack Count": 1
+    },
+    {
+        "provstate": "Maysan",
+        "Attack Count": 8
+    },
+    {
+        "provstate": "Muthanna",
+        "Attack Count": 4
+    },
+    {
+        "provstate": "Najaf",
+        "Attack Count": 14
+    },
+    {
+        "provstate": "Nineveh",
+        "Attack Count": 815
+    },
+    {
+        "provstate": "Qadisiyah",
+        "Attack Count": 16
+    },
+    {
+        "provstate": "Saladin",
+        "Attack Count": 693
+    },
+    {
+        "provstate": "Sulaymaniyah",
+        "Attack Count": 8
+    },
+    {
+        "provstate": "Unknown",
+        "Attack Count": 64
+    },
+    {
+        "provstate": "Wasit",
+        "Attack Count": 38
+    }
+]

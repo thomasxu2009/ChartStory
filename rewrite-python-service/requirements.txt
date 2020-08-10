@@ -1,0 +1,3 @@
+spacy==2.1.8
+tagme==0.1.3
+Wikipedia-API==0.5.3

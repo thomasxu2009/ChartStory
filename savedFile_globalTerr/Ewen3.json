@@ -1,0 +1,66 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Yearly Terrorist Attacks in Middle Eastern & North African Countries",
+        "mark": "line",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "iyear",
+                "axis": {
+                    "title": "Year"
+                }
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Attack Count"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "country_txt",
+                "scale": {
+                    "scheme": "category20"
+                },
+                "legend": {
+                    "title": "Country"
+                }
+            }
+        },
+        "description": "multiSeriesLineChart",
+        "width": 1272,
+        "height": 505.5,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "iyear": "number",
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Ewen",
+    "dateTime": {
+        "compare": "1478835688000", 
+        "fullTime": "Thu Nov 10 2016 19:41:28", 
+        "year": "2016", 
+        "month": "11", 
+        "date": "10", 
+        "hour": "19", 
+        "minute": "41", 
+        "second": "28"
+    },
+    "queryText": "SELECT iyear,\n1 as \"Attack Count\",\ncountry_txt\nFROM dataset\nWHERE region_txt = \"Middle East & North Africa\"",
+    "chartType": "lineChart",
+    "specific": "multiSeriesLineChart",
+    "xAxisField": "iyear",
+    "yAxisField": "Attack Count",
+    "colorField": "country_txt",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category20",
+    "visTitleText": "Yearly Terrorist Attacks in Middle Eastern & North African Countries, 1970-2015",
+    "keywords": "time varying;year;trend;regions;geographic;countries;Middle East;North Africa;Iraq;",
+    "captions": "Even within Middle East & North Africa, there are likely to be large variations between countries.;Within them, Iraq is the most terrorism-prone country.;"
+}

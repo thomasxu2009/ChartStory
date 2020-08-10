@@ -1,0 +1,103 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.3333333333333335",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Private For-Profit",
+    "secondaryTargetObject": "",
+    "content": "Private For-Profit (Control) has the lowest AverageFamilyIncome (639118.0800000001)",
+    "attributes": [
+      "Control",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.3333333333333333"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.3333333333333335",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Private",
+    "secondaryTargetObject": "",
+    "content": "Private (Control) has the highest AverageFamilyIncome (60533900.82999999)",
+    "attributes": [
+      "Control",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.3333333333333333"
+  },
+  {
+    "id": "",
+    "type": "RelativeValueFact",
+    "tier": "1",
+    "interestingness": "2.3333333333333335",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "",
+    "secondaryTargetObject": "",
+    "diffFactor": "93.71",
+    "sourceCategory": "Private For-Profit",
+    "targetCategory": "Private",
+    "attributes": [
+      "Control",
+      "AverageFamilyIncome"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "content": "The AverageFamilyIncome for Private is 93.71 times of that for Private For-Profit",
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.3333333333333333"
+  },
+  {
+    "id": "",
+    "type": "DerivedValueFact",
+    "tier": "1",
+    "interestingness": "2.3333333333333335",
+    "taskCategory": "DerivedValue",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "90521005.56",
+    "content": "Total AverageFamilyIncome across all Controls is 90521005.56",
+    "attributes": [
+      "Control",
+      "AverageFamilyIncome"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.3333333333333333"
+  }
+]

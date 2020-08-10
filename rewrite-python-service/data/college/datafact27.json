@@ -1,0 +1,103 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Outlying Areas",
+    "secondaryTargetObject": "",
+    "content": "Outlying Areas (Region) has the lowest AdmissionRate (0.9782)",
+    "attributes": [
+      "Region",
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.5",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "Southeast",
+    "secondaryTargetObject": "",
+    "content": "Southeast (Region) has the highest AdmissionRate (222.22420000000002)",
+    "attributes": [
+      "Region",
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "RelativeValueFact",
+    "tier": "1",
+    "interestingness": "2.5",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "",
+    "primaryTargetObject": "",
+    "secondaryTargetObject": "",
+    "diffFactor": "226.18",
+    "sourceCategory": "Outlying Areas",
+    "targetCategory": "Southeast",
+    "attributes": [
+      "Region",
+      "AdmissionRate"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "content": "The AdmissionRate for Southeast is 226.18 times of that for Outlying Areas",
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  },
+  {
+    "id": "",
+    "type": "DerivedValueFact",
+    "tier": "1",
+    "interestingness": "2.5",
+    "taskCategory": "DerivedValue",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "836.31",
+    "content": "Total AdmissionRate across all Regions is 836.31",
+    "attributes": [
+      "Region",
+      "AdmissionRate"
+    ],
+    "typeInterestingness": "0",
+    "attributeInterestingness": "0.5"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "circle",
+    "encoding": {
+      "y": {
+        "type": "ordinal",
+        "field": "referrer channel"
+      },
+      "x": {
+        "type": "ordinal",
+        "field": "page type"
+      },
+      "color": {
+        "type": "quantitative",
+        "aggregate": "sum",
+        "field": "purchase count"
+      },
+      "size": {
+        "type": "quantitative",
+        "aggregate": "sum",
+        "field": "purchase count"
+      }
+    },
+    "description": "sizeHeatmap",
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "data": {
+      "url": "/datasets/dataset.json",
+      "format": {
+        "parse": {
+          "purchase count": "number"
+        }
+      }
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581913735846",
+    "fullTime": "Sun Feb 16 2020 23:28:55 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "23",
+    "minute": "28",
+    "second": "55"
+  },
+  "queryText": "SELECT `page type`,\n`referrer channel`,\n`purchase count`\nFROM dataset",
+  "chartType": "otherCharts",
+  "specific": "sizeHeatmap",
+  "xAxisField": "page type",
+  "yAxisField": "referrer channel",
+  "colorField": "",
+  "columnField": "",
+  "sizeField": "purchase count",
+  "colorChoice": "",
+  "visTitleText": "page type vs. referrer channel",
+  "keywords": "otherCharts;sizeHeatmap;page type;referrer channel;",
+  "captions": "otherCharts: sizeHeatmap;page type vs. referrer channel;"
+}

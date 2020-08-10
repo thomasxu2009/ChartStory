@@ -1,0 +1,56 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Yearly Terrorist Attacks in Iraq",
+        "mark": {"type": "area", "point":true, "line":true, "color":"#80b1d3"},
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "iyear",
+                "axis": {
+                    "title": "Year"
+                }
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Attack Count"
+            }
+        },
+        "description": "simpleAreaChart",
+        "width": 1930,
+        "height": 688.141,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "iyear": "number",
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Tom",
+    "dateTime": {
+        "compare": "1568684818342",
+        "fullTime": "Mon Sep 16 2019 21:46:58 GMT-0400 (Eastern Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "16",
+        "hour": "21",
+        "minute": "46",
+        "second": "58"
+    },
+    "queryText": "SELECT iyear,\n1 as \"Attack Count\"\nFROM dataset\nWHERE country_txt = \"Iraq\"\nAND iyear >= 2004",
+    "chartType": "areaChart",
+    "specific": "simpleAreaChart",
+    "xAxisField": "iyear",
+    "yAxisField": "Attack Count",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "iyear vs. Attack Count",
+    "keywords": "areaChart;simpleAreaChart;iyear;Attack Count;",
+    "captions": "areaChart: simpleAreaChart;iyear vs. Attack Count;"
+}

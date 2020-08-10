@@ -1,0 +1,56 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "type": "nominal",
+        "field": "DATE"
+      },
+      "y": {
+        "aggregate": "sum",
+        "type": "quantitative",
+        "field": "COUNT"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "gender"
+      }
+    },
+    "description": "stackedAreaChart",
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "data": {
+      "url": "/datasets/dataset.json"
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581910762677",
+    "fullTime": "Sun Feb 16 2020 22:39:22 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "22",
+    "minute": "39",
+    "second": "22"
+  },
+  "queryText": "SELECT date_format(STR_TO_DATE(timestamp, '%m/%d/%y %H:%i'), \"%m-%d-%Y\") AS \"DATE\",\n1 AS \"COUNT\",\ngender\nFROM dataset",
+  "chartType": "areaChart",
+  "specific": "stackedAreaChart",
+  "xAxisField": "DATE",
+  "yAxisField": "COUNT",
+  "colorField": "gender",
+  "columnField": "",
+  "sizeField": "",
+  "colorChoice": "default",
+  "visTitleText": "DATE vs. COUNT",
+  "keywords": "areaChart;stackedAreaChart;DATE;COUNT;",
+  "captions": "areaChart: stackedAreaChart;DATE vs. COUNT;"
+}

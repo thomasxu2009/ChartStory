@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "4.552287581699346",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Australasia & Oceania",
+    "secondaryTargetObject": "1970",
+    "content": "Australasia & Oceania (region_txt) has the lowest Attack Count (1) for 1970 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "region_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "4.552287581699346",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Middle East & North Africa",
+    "secondaryTargetObject": "2014",
+    "content": "Middle East & North Africa (region_txt) has the highest Attack Count (6917) for 2014 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "region_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.552287581699346",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "South Asia",
+    "secondaryTargetObject": "1970",
+    "content": "South Asia (region_txt) has the second lowest Attack Count (1) for 1970 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "region_txt"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "2.552287581699346",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "item",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Middle East & North Africa",
+    "secondaryTargetObject": "2015",
+    "content": "Middle East & North Africa (region_txt) has the second highest Attack Count (5955) for 2015 (iyear)",
+    "attributes": [
+      "iyear",
+      "Attack Count",
+      "region_txt"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.026143790849673203",
+    "attributeInterestingness": "0.25"
+  }
+]

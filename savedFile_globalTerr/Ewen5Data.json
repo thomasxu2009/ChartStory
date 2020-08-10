@@ -1,0 +1,82 @@
+[
+    {
+        "targtype1_txt": "Airports & Aircraft",
+        "Attack Count": 5
+    },
+    {
+        "targtype1_txt": "Business",
+        "Attack Count": 197
+    },
+    {
+        "targtype1_txt": "Educational Institution",
+        "Attack Count": 84
+    },
+    {
+        "targtype1_txt": "Food or Water Supply",
+        "Attack Count": 6
+    },
+    {
+        "targtype1_txt": "Government (Diplomatic)",
+        "Attack Count": 45
+    },
+    {
+        "targtype1_txt": "Government (General)",
+        "Attack Count": 792
+    },
+    {
+        "targtype1_txt": "Journalists & Media",
+        "Attack Count": 109
+    },
+    {
+        "targtype1_txt": "Military",
+        "Attack Count": 698
+    },
+    {
+        "targtype1_txt": "NGO",
+        "Attack Count": 15
+    },
+    {
+        "targtype1_txt": "Other",
+        "Attack Count": 14
+    },
+    {
+        "targtype1_txt": "Police",
+        "Attack Count": 962
+    },
+    {
+        "targtype1_txt": "Private Citizens & Property",
+        "Attack Count": 989
+    },
+    {
+        "targtype1_txt": "Religious Figures/Institutions",
+        "Attack Count": 142
+    },
+    {
+        "targtype1_txt": "Telecommunication",
+        "Attack Count": 4
+    },
+    {
+        "targtype1_txt": "Terrorists/Non-State Militia",
+        "Attack Count": 348
+    },
+    {
+        "targtype1_txt": "Tourists",
+        "Attack Count": 3
+    },
+    {
+        "targtype1_txt": "Transportation",
+        "Attack Count": 27
+    },
+    {
+        "targtype1_txt": "Unknown",
+        "Attack Count": 5
+    },
+    {
+        "targtype1_txt": "Utilities",
+        "Attack Count": 39
+    },
+    {
+        "targtype1_txt": "Violent Political Party",
+        "Attack Count": 35
+    }
+]

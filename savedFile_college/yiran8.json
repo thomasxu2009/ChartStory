@@ -1,0 +1,53 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Histogram of AdmissionRate where Control is Private",
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "bin": true,
+                "type": "quantitative",
+                "field": "AdmissionRate"
+            },
+            "y": {
+                "aggregate": "count",
+                "type": "quantitative",
+                "field": "AdmissionRate"
+            }
+        },
+        "description": "histogram",
+        "width": 1930,
+        "height": 792.141,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "AdmissionRate": "number"
+                }
+            }
+        }
+    },
+    "user": "yiranli",
+    "dateTime": {
+        "compare": "1561586554886",
+        "fullTime": "Wed Jun 26 2019 15:02:34 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "6",
+        "date": "26",
+        "hour": "15",
+        "minute": "2",
+        "second": "34"
+    },
+    "queryText": "SELECT AdmissionRate\nFROM dataset\nWHERE Control = \"Private\"\nOR Control = \"Private For-Profit\"",
+    "chartType": "otherCharts",
+    "specific": "histogram",
+    "xAxisField": "AdmissionRate",
+    "yAxisField": "",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "Overall AdmissionRate for Private",
+    "keywords": "otherCharts;histogram;AdmissionRate;AdmissionRate;",
+    "captions": "otherCharts: histogram;AdmissionRate vs. AdmissionRate;"
+}

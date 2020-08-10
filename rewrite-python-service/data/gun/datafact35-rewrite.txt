@@ -1,0 +1,4 @@
+Most values for age are in the range 22 - 40. 
+The age of 107 appears to be an outlier. 
+The age of 99 appears to be an outlier. 
+The age of 97 appears to be an outlier.

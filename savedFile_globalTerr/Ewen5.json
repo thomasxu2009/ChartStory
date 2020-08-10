@@ -1,0 +1,54 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Terrorist Attacks with Explosives in Iraq by Primary Target",
+        "mark": {"type":"bar", "color":"#fdb462"},
+        "encoding": {
+            "x": {
+                "type": "ordinal",
+                "field": "targtype1_txt",
+                "axis": {
+                    "title": "Target Type"
+                }
+            },
+            "y": {
+                "type": "quantitative",
+                "field": "Attack Count"
+            }
+        },
+        "description": "simpleBarChart",
+        "width": 1322,
+        "height": 505.5,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Ewen",
+    "dateTime": {
+        "compare": "1478836716000", 
+        "fullTime": "Thu Nov 10 2016 19:58:36", 
+        "year": "2016", 
+        "month": "11", 
+        "date": "10", 
+        "hour": "19", 
+        "minute": "58", 
+        "second": "36"
+    },
+    "queryText": "SELECT targtype1_txt,\nSUM(1) as \"Attack Count\"\nFROM dataset\nWHERE country_txt = \"Iraq\"\nAND weaptype1_txt != \"Explosives/Bombs/Dynamite\"\nAND targtype1_txt != \"\"\nGROUP BY targtype1_txt",
+    "chartType": "barChart",
+    "specific": "simpleBarChart",
+    "xAxisField": "targtype1_txt",
+    "yAxisField": "Attack Count",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "Terrorist Attacks with Explosives in Iraq by Primary Target, 1970-2015",
+    "keywords": "aggregate;targets;attacks;Iraq;explosives;citizens;police;military;government;business;",
+    "captions": "Private Citizens (civilians?), Police, Military, Government and Terrorists/Non-State Militia are the most common primary target of attack.;"
+}

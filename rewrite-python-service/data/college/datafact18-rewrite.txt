@@ -1,0 +1,5 @@
+Total average family income across all controls is 90521005.56. 
+The average family income for private is 93.71 times of that for private for-profit. 
+The control type of private has the highest average family income of 60533900.82999999, whereas for-profit has the lowest of that as 639118.0800000001.
+
+Below are Wikipedia entries about Arithmetic mean, Income tax, Family, Profit (economics): In mathematics and statistics, the arithmetic mean , or simply the mean or average when the context is clear, is the sum of a collection of numbers divided by the count of numbers in the collection. An income tax is a tax imposed on individuals or entities that varies with respective income or profits . ...

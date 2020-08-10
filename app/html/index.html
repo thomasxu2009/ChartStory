@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Chart Story -- Real System</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+    <link id="generalTheme" rel="stylesheet" type="text/css" href="/app/style/generalThemeLight.css">
+    <link rel="stylesheet" type="text/css" href="/app/style/style.css">
+    <link rel="stylesheet" type="text/css" href="/app/style/tooltip.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.0-rc1/vega.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/2.0.0-beta.8/vega-lite.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/3.0.0-beta.19/vega-embed.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script type="text/javascript" src="/app/src/pathseg.js"></script>
+    <script type="text/javascript" src="/app/src/comic.js"></script>
+    <link href="//cdn.quilljs.com/1.3.6/quill.bubble.css" rel="stylesheet">
+    <link href="//cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Gochi+Hand&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="main-body">
+      <main-body 
+        v-bind:layouts-data="layoutsData"
+        v-bind:array-of-charts="arrayOfCharts"
+        v-on:change-data-file="changeDataFile"
+        v-on:select-story-piece="selectStoryPiece"
+        v-on:unselect-story-piece="unselectStoryPiece"
+        v-on:select-switch="selectSwitch"
+        v-on:unselect-switch="unselectSwitch"
+        v-bind:reset="reset"
+        v-bind:change-motif="changeMotif"
+        v-bind:edit-chart="editChart"
+        v-bind:selected-chart="selectedChart">
+      </main-body>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.3.3/ace.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.3.3/ext-language_tools.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <script src="/npm/d3/dist/d3.min.js"></script>
+    <script src="/npm/bean/src/bean.js"></script>
+    <script src="/npm/split.js/dist/split.min.js"></script>
+    <script src="/npm/vue/dist/vue.min.js"></script>
+    <script src="/app/src/functionTest.js"></script>
+  </body>
+</html>

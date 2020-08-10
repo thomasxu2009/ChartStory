@@ -1,0 +1,66 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Yearly Terrorist Attacks in World Regions",
+        "mark": "line",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "iyear",
+                "axis": {
+                    "title": "Year"
+                }
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Attack Count"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "region_txt",
+                "scale": {
+                    "scheme": "category20"
+                },
+                "legend": {
+                    "title": "Region"
+                }
+            }
+        },
+        "description": "multiSeriesLineChart",
+        "width": 1272,
+        "height": 505.5,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "iyear": "number",
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Ewen",
+    "dateTime": {
+        "compare": "1478835309000", 
+        "fullTime": "Thu Nov 10 2016 19:35:09", 
+        "year": "2016", 
+        "month": "11", 
+        "date": "10", 
+        "hour": "19", 
+        "minute": "35", 
+        "second": "9"
+    },
+    "queryText": "SELECT iyear,\n1 as \"Attack Count\",\nregion_txt\nFROM dataset",
+    "chartType": "lineChart",
+    "specific": "multiSeriesLineChart",
+    "xAxisField": "iyear",
+    "yAxisField": "Attack Count",
+    "colorField": "region_txt",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category20",
+    "visTitleText": "Yearly Terrorist Attacks in World Regions, 1970-2015",
+    "keywords": "time varying;year;trend;regions;geographic;Central America;South America;South Asia;Middle East;increasing;",
+    "captions": "One obvious port of call to examine the terrorist attack trend is to identify how the timeline varies by world region.;Notice that the ’80s/early ’90s rise was driven by Central America, South America and South Asia.;The latter, along with Sub-Saharan Africa and (mostly) the Middle East & North Africa, characterize the most recent spike.;"
+}

@@ -1,0 +1,61 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "type": "nominal",
+        "field": "page type"
+      },
+      "y": {
+        "aggregate": "sum",
+        "type": "quantitative",
+        "field": "purchase count"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "gender"
+      }
+    },
+    "description": "stackedBarChart",
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "data": {
+      "url": "/datasets/dataset.json",
+      "format": {
+        "parse": {
+          "purchase count": "number"
+        }
+      }
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581913424041",
+    "fullTime": "Sun Feb 16 2020 23:23:44 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "23",
+    "minute": "23",
+    "second": "44"
+  },
+  "queryText": "SELECT `page type`,\n`purchase count`,\ngender\nFROM dataset",
+  "chartType": "barChart",
+  "specific": "stackedBarChart",
+  "xAxisField": "page type",
+  "yAxisField": "purchase count",
+  "colorField": "gender",
+  "columnField": "",
+  "sizeField": "",
+  "colorChoice": "default",
+  "visTitleText": "page type vs. purchase count",
+  "keywords": "barChart;stackedBarChart;page type;purchase count;",
+  "captions": "barChart: stackedBarChart;page type vs. purchase count;"
+}

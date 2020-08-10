@@ -1,0 +1,25 @@
+[
+  {
+    "id": "",
+    "type": "CorrelationFact",
+    "tier": "2",
+    "interestingness": "2.6666666666666665",
+    "taskCategory": "Correlation",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "0.63",
+    "content": "Overall, AverageCost and AverageFamilyIncome have a moderate correlation",
+    "attributes": [
+      "AverageCost",
+      "AverageFamilyIncome",
+      "Locale"
+    ],
+    "keywords": [
+      "correlation",
+      "correlate",
+      "compare"
+    ],
+    "typeInterestingness": "1",
+    "attributeInterestingness": "0.6666666666666666"
+  }
+]

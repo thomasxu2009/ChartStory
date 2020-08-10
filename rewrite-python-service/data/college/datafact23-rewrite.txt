@@ -1,0 +1,4 @@
+Itmes with the region of mid-atlantic and the locale of large suburb has the highest count(*) of 80, contrariwise far west and the locale of distant rural has the lowest of that as 1. 
+Itmes with the region of southeast and the locale of small city has the second highest count(*) of 72, contrarily southwest and the locale of distant rural has the second lowest of that as 1.
+
+Below are Wikipedia entries about American frontier: The American frontier includes the geography, history, folklore, and cultural expression of life in the forward wave of American expansion that began with English colonial settlements in the early 17th century and ended with the admission of the last remaining western ...

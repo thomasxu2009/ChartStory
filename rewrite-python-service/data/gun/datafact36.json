@@ -1,0 +1,28 @@
+[
+  {
+    "id": "",
+    "type": "RangeDistributionFact",
+    "tier": "1",
+    "interestingness": "3.0012048192771084",
+    "taskCategory": "Distribution",
+    "primaryTargetObjectType": "value",
+    "secondaryTargetObjectType": "",
+    "value": "empty",
+    "primaryTargetObject": [
+      "35",
+      "64"
+    ],
+    "content": "Most values for age are in the range 35 - 64",
+    "attributes": [
+      "age"
+    ],
+    "keywords": [
+      "distribution",
+      "spread",
+      "range",
+      "compare"
+    ],
+    "typeInterestingness": "0.0012048192771084338",
+    "attributeInterestingness": "1"
+  }
+]

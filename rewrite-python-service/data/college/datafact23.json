@@ -1,0 +1,120 @@
+[
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Far West",
+    "secondaryTargetObject": "Distant Rural",
+    "content": "Itmes with Far West (Region) and Distant Rural (locale) has the lowest COUNT(*) (1)",
+    "attributes": [
+      "Region",
+      "locale",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "1",
+    "interestingness": "2.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Mid-Atlantic",
+    "secondaryTargetObject": "Large Suburb",
+    "content": "Itmes with Mid-Atlantic (Region) and Large Suburb (locale) has the highest COUNT(*) (80)",
+    "attributes": [
+      "Region",
+      "locale",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MIN",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Southwest",
+    "secondaryTargetObject": "Distant Rural",
+    "content": "Itmes with Southwest (Region) and Distant Rural (locale) has the second lowest COUNT(*) (1)",
+    "attributes": [
+      "Region",
+      "locale",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "worst",
+      "bad",
+      "low",
+      "lowest",
+      "least",
+      "decrease",
+      "decreasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  },
+  {
+    "id": "",
+    "type": "ExtremeValueFact",
+    "tier": "2",
+    "interestingness": "1.4166666666666665",
+    "taskCategory": "Extremum",
+    "extremeFunction": "MAX",
+    "primaryTargetObjectType": "category",
+    "secondaryTargetObjectType": "category",
+    "primaryTargetObject": "Southeast",
+    "secondaryTargetObject": "Small City",
+    "content": "Itmes with Southeast (Region) and Small City (locale) has the second highest COUNT(*) (72)",
+    "attributes": [
+      "Region",
+      "locale",
+      "COUNT(*)"
+    ],
+    "keywords": [
+      "best",
+      "good",
+      "high",
+      "highest",
+      "increase",
+      "increasing",
+      "extreme"
+    ],
+    "typeInterestingness": "0.16666666666666666",
+    "attributeInterestingness": "0.25"
+  }
+]

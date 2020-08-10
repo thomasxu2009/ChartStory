@@ -1,0 +1,61 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Stacked Bar Chart of month vs. Number of Records Colored by year",
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "month"
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Number of Records"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "year",
+                "scale": {
+                    "scheme": "category10"
+                }
+            }
+        },
+        "description": "stackedBarChart",
+        "width": 957.2,
+        "height": 298.538,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "month": "number",
+                    "Number of Records": "number",
+                    "year": "number"
+                }
+            }
+        }
+    },
+    "user": "yiranli",
+    "dateTime": {
+        "compare": "1561695726340",
+        "fullTime": "Thu Jun 27 2019 21:22:06 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "6",
+        "date": "27",
+        "hour": "21",
+        "minute": "22",
+        "second": "6"
+    },
+    "queryText": "SELECT year,\nmonth,\n1 as 'Number of Records'\nFROM dataset",
+    "chartType": "barChart",
+    "specific": "stackedBarChart",
+    "xAxisField": "month",
+    "yAxisField": "Number of Records",
+    "colorField": "year",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category10",
+    "visTitleText": "month vs. Number of Records",
+    "keywords": "barChart;stackedBarChart;month;Number of Records;",
+    "captions": "barChart: stackedBarChart;month vs. Number of Records;"
+}

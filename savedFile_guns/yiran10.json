@@ -1,0 +1,60 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Multi-Series Line Chart of age vs. Number of Records Colored by intent among Homicide, Suicide and Accidental", 
+        "mark": "line",
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "age"
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Number of Records"
+            },
+            "color": {
+                "type": "nominal",
+                "field": "intent",
+                "scale": {
+                    "scheme": "category10"
+                }
+            }
+        },
+        "description": "multiSeriesLineChart",
+        "width": 1484.64,
+        "height": 526.302,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "age": "number",
+                    "Number of Records": "number"
+                }
+            }
+        }
+    },
+    "user": "guest",
+    "dateTime": {
+        "compare": "1567897649517",
+        "fullTime": "Sat Sep 07 2019 16:07:29 GMT-0700 (Pacific Daylight Time)",
+        "year": "2019",
+        "month": "9",
+        "date": "7",
+        "hour": "16",
+        "minute": "7",
+        "second": "29"
+    },
+    "queryText": "SELECT age,\n1 as \"Number of Records\",\nintent\nFROM dataset\nWHERE age != \"NA\"\nAND\n(intent = \"Homicide\"\nOR intent = \"Suicide\"\nOR intent = \"Accidental\")",
+    "chartType": "lineChart",
+    "specific": "multiSeriesLineChart",
+    "xAxisField": "age",
+    "yAxisField": "Number of Records",
+    "colorField": "intent",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "category10",
+    "visTitleText": "age vs. Number of Records",
+    "keywords": "lineChart;multiSeriesLineChart;age;Number of Records;",
+    "captions": "lineChart: multiSeriesLineChart;age vs. Number of Records;"
+}

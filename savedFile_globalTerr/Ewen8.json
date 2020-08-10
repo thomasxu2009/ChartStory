@@ -1,0 +1,56 @@
+{
+    "sourceCode": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+        "title": "Yearly Terrorist Attacks in Baghdad",
+        "mark": {"type": "area", "color":"#fb8072"},
+        "encoding": {
+            "x": {
+                "type": "nominal",
+                "field": "iyear",
+                "axis": {
+                    "title": "Year"
+                }
+            },
+            "y": {
+                "aggregate": "sum",
+                "type": "quantitative",
+                "field": "Attack Count"
+            }
+        },
+        "description": "simpleAreaChart",
+        "width": 1322,
+        "height": 505.5,
+        "data": {
+            "url": "/datasets/dataset.json",
+            "format": {
+                "parse": {
+                    "iyear": "number",
+                    "Attack Count": "number"
+                }
+            }
+        }
+    },
+    "user": "Ewen",
+    "dateTime": {
+        "compare": "1478837961000", 
+        "fullTime": "Thu Nov 10 2016 20:19:21", 
+        "year": "2016", 
+        "month": "11", 
+        "date": "10", 
+        "hour": "20", 
+        "minute": "19", 
+        "second": "21"
+    },
+    "queryText": "SELECT iyear,\n1 AS \"Attack Count\"\nFROM dataset\nWHERE country_txt = \"Iraq\"\nAND weaptype1_txt = \"Explosives/Bombs/Dynamite\"\nAND iyear >= 2004\nAND provstate = \"Baghdad\"",
+    "chartType": "areaChart",
+    "specific": "simpleAreaChart",
+    "xAxisField": "iyear",
+    "yAxisField": "Attack Count",
+    "colorField": "",
+    "columnField": "",
+    "sizeField": "",
+    "colorChoice": "",
+    "visTitleText": "Yearly Terrorist Attacks in Baghdad, 2004-2015",
+    "keywords": "Baghdad;Iraq;geographic;province;year;time varying;attacks;aggregate;",
+    "captions": "Baghdad, Iraq attacks from 2004 to 2015."
+}

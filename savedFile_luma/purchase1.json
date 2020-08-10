@@ -1,0 +1,61 @@
+{
+  "sourceCode": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "aggregate": "sum",
+        "type": "quantitative",
+        "field": "purchase count"
+      },
+      "y": {
+        "type": "nominal",
+        "field": "referrer channel"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "gender"
+      }
+    },
+    "description": "horizontalStackedBarChart",
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "data": {
+      "url": "/datasets/dataset.json",
+      "format": {
+        "parse": {
+          "purchase count": "number"
+        }
+      }
+    }
+  },
+  "user": "Tom",
+  "dateTime": {
+    "compare": "1581912209156",
+    "fullTime": "Sun Feb 16 2020 23:03:29 GMT-0500 (Eastern Standard Time)",
+    "year": "2020",
+    "month": "2",
+    "date": "16",
+    "hour": "23",
+    "minute": "3",
+    "second": "29"
+  },
+  "queryText": "SELECT `purchase count`,\n`referrer channel`,\ngender\nFROM dataset",
+  "chartType": "barChart",
+  "specific": "horizontalStackedBarChart",
+  "xAxisField": "purchase count",
+  "yAxisField": "referrer channel",
+  "colorField": "gender",
+  "columnField": "",
+  "sizeField": "",
+  "colorChoice": "default",
+  "visTitleText": "purchase count vs. referrer channel",
+  "keywords": "barChart;horizontalStackedBarChart;purchase count;referrer channel;",
+  "captions": "barChart: horizontalStackedBarChart;purchase count vs. referrer channel;"
+}
