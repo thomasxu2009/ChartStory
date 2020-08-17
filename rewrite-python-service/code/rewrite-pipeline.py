@@ -107,9 +107,9 @@ scp -r rewrite-python-service/code/ chen@100.15.126.133:/home/chen/xinq/20Spring
 import json
 import random
 
-import logging
+# import logging
 
-logging.basicConfig(filename="./logging/" + str(int(time.time())), level=logging.INFO)
+# logging.basicConfig(filename="./logging/" + str(int(time.time())), level=logging.INFO)
 
 ### Read JSON formatted data through file
 if MODE == FILE_MODE:
@@ -123,7 +123,7 @@ if MODE == FILE_MODE:
 elif MODE == STRING_MODE:
     data_facts = json.loads(sys.argv[1])
 
-logging.info('%s %s', "Data facts are", data_facts)
+# logging.info('%s %s', "Data facts are", data_facts)
 
 '''
 Pipeline proposal 1: replacing templat-ed single data facts,
@@ -213,7 +213,7 @@ for data_fact in data_facts:
     ## Then, replace those with slashes
     # for current_data_fact_tokens:
 
-    # logging.info("Current data fact tokens", current_data_fact_tokens)
+    ## logging.info("Current data fact tokens", current_data_fact_tokens)
 
     data_fact[REWRITE_CONTENT] = " ".join(current_data_fact_tokens).lower()
     # data_fact[REWRITE_CONTENT] = data_fact[REWRITE_CONTENT][0:1].upper() + data_fact[REWRITE_CONTENT][1:]
@@ -246,9 +246,9 @@ def rank_score(data_fact):
 # nonlocal data_facts_selected
 data_facts_selected = [False] * len(data_facts)
 
-logging.info('%s %s', "Rank score for data facts", [rank_score(data_fact) for data_fact in data_facts])
+# logging.info('%s %s', "Rank score for data facts", [rank_score(data_fact) for data_fact in data_facts])
 own_importance = sorted(range(len(data_facts)), key=lambda idx: rank_score(data_facts[idx]), reverse=True)
-logging.info('%s %s', "Data fact indexes, ranked by importance", own_importance)
+# logging.info('%s %s', "Data fact indexes, ranked by importance", own_importance)
 
 
 def sorted_relevant_data_fact_idxs(data_fact):
@@ -347,7 +347,7 @@ for first_fact, second_fact in zip(ranked_data_facts, ranked_data_facts[1:]):
     if first_fact['type'] != second_fact['type']:
         continue
     for attribute in second_fact['attributes']:
-        logging.info('%s %s %s', "Current attribute to be deduplicated", attribute.lower(), first_fact[REWRITE_CONTENT])
+        # logging.info('%s %s %s', "Current attribute to be deduplicated", attribute.lower(), first_fact[REWRITE_CONTENT])
         # print(first_fact[REWRITE_CONTENT], "\n", second_fact[REWRITE_CONTENT], "\n", attribute, "\n")
         if attribute.lower() in first_fact[REWRITE_CONTENT] and attribute.lower() in second_fact[REWRITE_CONTENT]:
             # second_fact[REWRITE_CONTENT] = second_fact[REWRITE_CONTENT].replace(attribute.lower() + " of", "of that as")
@@ -394,12 +394,13 @@ if USE_TAGME:
 
     try:
         for ann in lunch_annotations.get_annotations(0.2):
-            logging.info('%s %s', "Entity title", ann.__dict__['entity_title'])
+            # logging.info('%s %s', "Entity title", ann.__dict__['entity_title'])
             entity = ann.__dict__['entity_title']
             #if entity in concatenated_data_facts:
             entities_to_explain += [entity]
     except:
-        logging.error("TagMe annotation had some issue")
+        print("TagMe annotation had some issue")
+        # logging.error("TagMe annotation had some issue")
 
     entities_to_explain = list(set(entities_to_explain))
     # if len(entities_to_explain) > 0:
@@ -430,8 +431,8 @@ if USE_TAGME:
         for entity in entities_to_explain:
             wiki_wiki = wikipediaapi.Wikipedia('en')
             page_py = wiki_wiki.page(entity)
-            logging.info(("Page for " + entity + " - Exists: %s") % page_py.exists())
-            logging.info(("Page for " + entity + " - Summary: %s") % get_first_sent(page_py.summary))
+            # logging.info(("Page for " + entity + " - Exists: %s") % page_py.exists())
+            # logging.info(("Page for " + entity + " - Summary: %s") % get_first_sent(page_py.summary))
 
             # concatenated_data_facts += " " + normalize(get_first_sent(page_py.summary))
             entity_wiki_pages[entity.lower()] = page_py.fullurl
@@ -521,7 +522,7 @@ if USE_TAGME:
 jobject = {}
 
 # jobject['original_data_facts'] = data_facts
-logging.info('%s %s', "Concatenated data facts", concatenated_data_facts)
+# logging.info('%s %s', "Concatenated data facts", concatenated_data_facts)
 cutoff_char_len = 700
 jobject['rewritten_data_facts'] = concatenated_data_facts[:cutoff_char_len] + "..." if len(
     concatenated_data_facts) > cutoff_char_len else concatenated_data_facts
