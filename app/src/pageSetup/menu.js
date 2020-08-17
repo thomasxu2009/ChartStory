@@ -12,10 +12,10 @@ let template = `
         <i class="database icon"></i>
         <span class="text">Select Dataset</span>
         <div class="menu">
-          <div class="item">Global Terrorism Dataset</div>
-          <div class="item">College Dataset</div>
-          <div class="item">Guns Dataset</div>
-          <div class="item">Luma Dataset</div>
+          <div class="item">Global Terrorism Dataset</div>` + 
+          // <div class="item">College Dataset</div>
+          // <div class="item">Guns Dataset</div>
+          `<div class="item">Luma Dataset</div>
         </div>
       </div>
     </div>` +
