@@ -7,14 +7,39 @@ ChartStory is a visual analysis tool for automated partitioning, layout, and cap
 
 ## Generated Datacomics Examples
 
-With bullet-point-style captions
- - [college data](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/college%20bullets.png)
- - [gun data](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/guns%20bullets.png)
+#### With NLP generated captions
+ <table>
+ <tr>
+  <td>
+   college data <br/>
+   <img src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/college%20NLP.png' height='400px'></img>
+  </td>
+  <td>
+   gun data<br/>
+   <img src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/guns%20NLP.png' height='400px'></img>
+  </td>
+  <td>
+   luma data (used in the scenario)<br/>
+   <img src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/scenario.png' height='400px'></img>
+  </td>
+ </tr>
+</table>
+ 
+#### With bullet-point-style captions
+<table>
+ <tr>
+  <td>
+   college data <br/>
+   <img src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/college%20bullets.png' height='400px'></img>
+  </td>
+  <td>
+   gun data<br/>
+   <img src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/guns%20bullets.png' height='400px'></img>
+  </td>
+ </tr>
+</table>
 
-With NLP generated captions
- - [college data](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/college%20NLP.png)
- - [guns data](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/guns%20NLP.png)
- - [luma data](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/scenario.png) (used in the scenario)
+
 
 #### Theme Examples
 
@@ -32,9 +57,9 @@ With NLP generated captions
 
 ## User Study Results
 
- - [study 1 results](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study1%20results.xlsx)
- - [study 2 results](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study2%20results.xlsx)
- - [study 3 result datacomic](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study3%20datacomic.png)
+ - [study #1 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study1%20results.xlsx)
+ - [study #2 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study2%20results.xlsx)
+ - [study #3 resulting datacomic (.png)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study3%20datacomic.png)
 
 ## System Setup and Running
 
