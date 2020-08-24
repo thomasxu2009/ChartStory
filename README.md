@@ -5,6 +5,8 @@ ChartStory is a visual analysis tool for automated partitioning, layout, and cap
 
 [![Watch the video](http://i3.ytimg.com/vi/PC4kmXKE4NQ/hqdefault.jpg)](https://youtu.be/PC4kmXKE4NQ)
 
+(click the image to watch)
+
 ## Generated Datacomics Examples
 
 #### With NLP generated captions
