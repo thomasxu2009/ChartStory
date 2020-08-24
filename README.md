@@ -1,9 +1,11 @@
 # ChartStory
-ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives
+ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives.
 
 ## Demo Video
 
-[ChartStory Demo Video](https://drive.google.com/file/d/1DN367q7mR4Qi5axezXZZnwIXwWOfQN5C/view?usp=sharing)
+[![Watch the video](http://i3.ytimg.com/vi/PC4kmXKE4NQ/hqdefault.jpg)](https://youtu.be/PC4kmXKE4NQ)
+
+[ChartStory Demo Video](https://youtu.be/PC4kmXKE4NQ)
 
 ## Generated Datacomics Examples
 
