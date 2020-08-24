@@ -8,7 +8,7 @@ ChartStory is a visual analysis tool for automated partitioning, layout, and cap
 ## Generated Datacomics Examples
 
 #### With NLP generated captions
- <table>
+<table>
  <tr>
   <td>
    college data <br/>
@@ -43,17 +43,104 @@ ChartStory is a visual analysis tool for automated partitioning, layout, and cap
 
 #### Theme Examples
 
- - [dark theme with comic-style charts](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark%20comic%20fonts.png)
- - [dark theme example 1](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark.png)
- - [dark theme example 2](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark2.png)
- - [excel theme example 1](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/excel.png)
- - [excel theme example 2](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/excel-2.png)
- - [five thirty eight theme example](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/five%20thirty%20eight.png)
- - [ggplot2 theme example](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/ggplot2.png)
- - [latimes theme example](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/latimes.png)
- - [quartz3 theme example 1](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/quartz3.png)
- - [quartz3 theme example 2](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/quartz3-2.png)
- - [vox theme example](https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/vox.png)
+<table>
+	<tr>
+		<td>
+			dark theme with comic-style charts
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark%20comic%20fonts.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			dark theme example 1
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			dark theme example 2
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/dark2.png'
+				height='400px'
+			></img>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			excel theme example 1
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/excel.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			excel theme example 2
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/excel-2.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			five thirty eight theme example
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/five%20thirty%20eight.png'
+				height='400px'
+			></img>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			ggplot2 theme example
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/ggplot2.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			latimes theme example
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/latimes.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			quartz3 theme example 1
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/quartz3.png'
+				height='400px'
+			></img>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			quartz3 theme example 2
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/quartz3-2.png'
+				height='400px'
+			></img>
+		</td>
+		<td>
+			vox theme example
+			<br/>
+			<img
+				src='https://github.com/thomasxu2009/ChartStory/blob/master/generated%20datacomics/theme%20examples/vox.png'
+				height='400px'
+			></img>
+		</td>
+	</tr>
+</table>
 
 ## User Study Results
 
