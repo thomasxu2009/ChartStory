@@ -1,5 +1,9 @@
 # ChartStory
-ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives.
+ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives. ChartStory is contributed by Jian Zhao, Shenyu Xu, Senthil Chandrasegaran, Chris Bryan, Fan Du, Aditi Mishra, Xin Qian, Yiran Li, and Kwan-Liu Ma. 
+
+ChartStory takes an ensemble of user-created charts (a) and automatically generates a data comic (b-d). This is achieved through a back- end pipeline with operations to identify story pieces (b), organize & order story pieces (c), and generate & integrate explanations (d). The user can also interactively edit the captions and layout of the charts, and change the style or appearance of the data comic (e).
+
+![](teaser.png)
 
 ## Demo Video
 
