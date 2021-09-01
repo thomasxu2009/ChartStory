@@ -154,6 +154,11 @@ ChartStory takes an ensemble of user-created charts (a) and automatically genera
  - [study #2 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study2%20results.xlsx)
  - [study #3 resulting datacomic (.png)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study3%20datacomic.png)
 
+## High-Resolution Paper Figures
+
+ - [Fig. 4 (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%206.pdf)
+ - [Fig. 9 (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%209.pdf)
+
 ## System Setup and Running
 
 ### Prerequisite:
