@@ -1,5 +1,5 @@
 # ChartStory
-ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives. ChartStory is contributed by Jian Zhao, Shenyu Xu, Senthil Chandrasegaran, Chris Bryan, Fan Du, Aditi Mishra, Xin Qian, Yiran Li, and Kwan-Liu Ma. 
+ChartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives. ChartStory is contributed by Jian Zhao, Shenyu Xu, Senthil Chandrasegaran, Chris Bryan, Fan Du, Aditi Mishra, Xin Qian, Yiran Li, and Kwan-Liu Ma. The preprint version of the paper can be viewed [here](https://arxiv.org/abs/2103.03996).
 
 ChartStory takes an ensemble of user-created charts (a) and automatically generates a data comic (b-d). This is achieved through a back- end pipeline with operations to identify story pieces (b), organize & order story pieces (c), and generate & integrate explanations (d). The user can also interactively edit the captions and layout of the charts, and change the style or appearance of the data comic (e).
 
@@ -154,10 +154,10 @@ ChartStory takes an ensemble of user-created charts (a) and automatically genera
  - [study #2 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study2%20results.xlsx)
  - [study #3 resulting datacomic (.png)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study3%20datacomic.png)
 
-## High-Resolution Paper Figures
+## High-Resolution Figures in the Paper
 
- - [Fig. 4 (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%206.pdf)
- - [Fig. 9 (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%209.pdf)
+ - [Fig. 4: ChartStory interface (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%206.pdf)
+ - [Fig. 9: Data comic examples (.pdf)](https://github.com/WatVis/ChartStory/blob/master/paper_figures/Fig%209.pdf)
 
 ## System Setup and Running
 
@@ -169,11 +169,11 @@ ChartStory takes an ensemble of user-created charts (a) and automatically genera
 
     npm install
 
-(Also install the required Python packages by following the README in the folder "rewrite-python-service")
+(Also install the required Python packages by following the README in the folder `rewrite-python-service`)
 
 ### Start server: 
 
     npm start
 
-Open the explorer with "http://localhost:8090/"
+Open the explorer with `http://localhost:8090/`
 
